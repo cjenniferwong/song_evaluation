@@ -10,5 +10,8 @@ Dataset:
 ### To Do:
 - EDA
 - clean and prepare data to use the Spotify API to search for songs to extract metadata
-- machine learning and data science
+    - creating an app and registering to get the credentials needed to use API
+    - read the docs to learn how to use it
+    - 
+- machine learning and data science ?????? 
 - clean up repo and collect learnings and insight for blog post
