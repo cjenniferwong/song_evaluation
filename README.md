@@ -18,3 +18,5 @@ Dataset:
 - clean up repo and collect learnings and insight for blog post
 - [https://docs.google.com/document/d/1lzOJkQ34iDTxcJq2Y0uoYU7W3QMMVC7yc9lahF59SPw/edit?usp=sharing]spotify_api_notes
 - i wonder if i can get the revenue generated from these songs somewhere
+
+- pairplot to look how different correlations and distributions of my varibales because duh
