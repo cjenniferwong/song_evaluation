@@ -9,6 +9,7 @@ Dataset:
 
 ### To Do:
 - EDA
+- I should have an impact hypothesis (there is no point in doing something if there are no actions that can be taken because of the analysis done)
 - clean and prepare data to use the Spotify API to search for songs to extract metadata
     - creating an app and registering to get the credentials needed to use API
     - read the docs to learn how to use it
