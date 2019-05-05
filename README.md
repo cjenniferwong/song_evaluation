@@ -20,3 +20,5 @@ Dataset:
 - i wonder if i can get the revenue generated from these songs somewhere
 
 - pairplot to look how different correlations and distributions of my varibales because duh
+- i think eventually i want to have a script the goes and scraps the new week of billboards and see if i can predict the new songs on the chart and how long they're going to be on the charts
+    - scraper, store on sql database on aws, etc.
