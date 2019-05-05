@@ -1,0 +1,823 @@
+artists,duration_ms,explicit,id,key,modified_query,name,num_weeks,popularity,release_date,search_query,uri
+,255560.0,True,,"2 Chainz, Travis Scott",,4 AM,12,,2017-06-16,2 chainz 4 am,spotify:track:1nX9KhK3Fff27SnrIor2Yb
+,210200.0,True,,"2 Chainz, Ty Dolla $ign, Trey Songz, Jhene Aiko",,It's A Vibe,20,,2017-06-16,2 chainz it's a vibe,spotify:track:6H0AwSQ20mo62jGlPGB8S6
+,234666.0,True,,"2 Chainz, YG, Offset",,PROUD,2,,2018-02-08,2 chainz proud,spotify:track:365wwIjijQdlRJEjUWTidq
+,225893.0,True,,"2 Chainz, Drake, Quavo",,Bigger Than You (feat. Drake & Quavo),2,,2018-06-15,"2 chainz, drake bigger > you",spotify:track:5S1IUPueD0xE0vj4zU3nSf
+,220306.0,True,,21 Savage,,Bank Account,28,,2017-09-23,21 savage bank account,spotify:track:2fQrGHiQOvpL9UgPvtYy6G
+,234280.0,True,,21 Savage,,Famous,1,,2017-09-23,21 savage famous,spotify:track:6g0TAJ1grweRwBMLQyiZFb
+,235040.0,True,,"21 Savage, Metro Boomin",,No Heart,5,,2016-07-15,21 savage no heart,spotify:track:4gmmRb6bZJffOOiww1JGTO
+,258880.0,True,,"21 Savage, Metro Boomin, Future",,X (feat. Future),1,,2016-07-15,21 savage x,spotify:track:6fwdbPMwP1zVStm8FybmkO
+,268933.0,True,,"21 Savage, Offset, Metro Boomin, Travis Scott",,Ghostface Killers,7,,2017-10-30,"21 savage, offset ghostface killers",spotify:track:5u6vkDnOyaf8LsteDAj2ub
+,202666.0,True,,"21 Savage, Offset, Metro Boomin",,Mad Stalkers,1,,2017-10-30,"21 savage, offset mad stalkers",spotify:track:6HR1z11h0ROUlWP4Kx8Z7G
+,257600.0,True,,"21 Savage, Offset, Metro Boomin, Quavo",,Rap Saved Me,3,,2017-10-30,"21 savage, offset rap saved me",spotify:track:0tdCy39PgWN8LFWu34ORn3
+,173081.0,True,,5 Seconds of Summer,,Want You Back,1,,2018-06-15,5 seconds of summer want you back,spotify:track:2vHfabj6nFebekTYODqntl
+,203417.0,False,,5 Seconds of Summer,,Youngblood,5,,2018-06-15,5 seconds of summer youngblood,spotify:track:2iUXsYOEPhVqEBwsqP70rE
+,246773.0,True,,6LACK,,PRBLMS,8,,2016-11-18,6lack prblms,spotify:track:4AtZRwSR8BOTTQg5ihSggt
+,112666.0,True,,6ix9ine,,BILLY,8,,2018-04-10,6ix9ine billy,spotify:track:5KhFaq45chTw8RGfWo8T8J
+,166851.0,True,,6ix9ine,,GOTTI,1,,2018-04-10,6ix9ine gotti,spotify:track:27oFpFktCq9JIXjJQRuv7a
+,157643.0,True,,6ix9ine,,GUMMO,19,,2018-04-10,6ix9ine gummo,spotify:track:4HbiCvH1R7mVOJ7KY7JQBD
+,142582.0,True,,6ix9ine,,KOODA,8,,2018-04-10,6ix9ine kooda,spotify:track:0tYHqwTW4s6VuPWDSD7n7K
+,138473.0,True,,"6ix9ine, Tory Lanez, Young Thug",,RONDO,1,,2018-04-10,6ix9ine rondo,spotify:track:3p6JF5nt0bZOSgZRONNZp0
+,154565.0,True,,"6ix9ine, DJ SpinKing",,TATI (feat. DJ SpinKing),5,,2018-11-27,6ix9ine tati,spotify:track:6wJrqTE6c4NtfDqAcSRcBf
+,151914.0,True,,"6ix9ine, Fetty Wap, A Boogie Wit da Hoodie",,KEKE,8,,2018-04-10,"6ix9ine, fetty wap keke",spotify:track:14PlDNjNh3pXyHXzkhX8n5
+,258158.0,True,,"A Boogie Wit da Hoodie, PnB Rock, YoungBoy Never Broke Again",,Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again),1,,2017-09-29,a boogie wit da hoodie beast mode,spotify:track:1AH60dMaEfNjzDoUIFwIQi
+,209269.0,True,,"A Boogie Wit da Hoodie, Kodak Black",,Drowning (feat. Kodak Black),21,,2017-09-29,a boogie wit da hoodie drowning,spotify:track:1f5cbQtDrykjarZVrShaDI
+,197666.0,True,,A Boogie Wit da Hoodie,,No Promises,2,,2017-09-29,a boogie wit da hoodie no promises,spotify:track:2BJpuAoDeQ1QuPvnryfAWK
+,214853.0,True,,A Boogie Wit da Hoodie,,Say A',2,,2017-09-29,a boogie wit da hoodie say a',spotify:track:3AMnOVxEHUgVrythGgqPhI
+,174012.0,True,,"A Boogie Wit da Hoodie, 21 Savage",,Undefeated (feat. 21 Savage),1,,2017-09-29,a boogie wit da hoodie undefeated,spotify:track:2vaMWMPMgsWX4fwJiKmdWm
+,173600.0,True,,A$AP Ferg,,Plain Jane,24,,2017-08-18,a$ap ferg plain jane,spotify:track:4dVpf9jZjcORqGTLUaeYj9
+,233061.0,True,,"A$AP Rocky, Moby",,A$AP Forever,2,,2018-04-05,a$ap rocky a$ap forever,spotify:track:1YmF9PvLhIISIANoMLIYGq
+,205040.0,True,,"A$AP Rocky, Skepta",,Praise The Lord (Da Shine) (feat. Skepta),5,,2018-05-25,a$ap rocky praise the lord (da shine),spotify:track:7ycWLEP1GsNjVvcjawXz3z
+,202193.0,False,,AJR,,Weak,11,,2016-09-16,ajr weak,spotify:track:45iMRHmfLZu3yjdZ8P5e3t
+,210985.0,False,,Addison Agen,,Tennessee Rain - The Voice Performance,1,,2017-12-20,addison agen tennessee rain,spotify:track:54p39OJ544KF6iFeCzbVjs
+,240426.0,False,,Adele,,Water Under the Bridge,10,,2016-06-24,adele water under the bridge,spotify:track:4vb4mFvYsr2h6enhjJsq9Y
+,227693.0,False,,Alessia Cara,,Out Of Love,1,,2018-11-30,alessia cara growing pains,spotify:track:4WzhjxvLP95y7AMDy0Atwb
+,175506.0,False,,Alessia Cara,,How Far I'll Go - Alessia Cara Version,11,,2016-11-18,alessia cara how far i'll go,spotify:track:1ehPJRt49h6N0LoryqKZXq
+,230226.0,False,,Alessia Cara,,Scars To Your Beautiful,21,,2015-11-13,alessia cara scars to your beautiful,spotify:track:0prNGof3XqfTvNDxHonvdK
+,235813.0,False,,Alice Merton,,No Roots,3,,2017-08-04,alice merton no roots,spotify:track:4CdfFYzaAJ0y0beKzmgJSn
+,209640.0,True,,Aminé,,Caroline,7,,2017-07-28,amine caroline,spotify:track:5hTpBe8h35rJ67eAWHQsJx
+,198001.0,False,,Andy Grammer,,Fresh Eyes,1,,2017-12-01,andy grammer fresh eyes,spotify:track:5NDUXbMwcnTQp66tI2zcdR
+,151933.0,False,,Andy Williams,,It's the Most Wonderful Time of the Year,3,,1963,andy williams it's the most wonderful time of the year,spotify:track:5hslUAKq9I9CG2bAulFkHN
+,227933.0,False,,"Ariana Grande, John Legend",,Beauty and the Beast,1,,2017-03-10,ariana grande beauty and the beast,spotify:track:5mRNFh0zp9qY1kDpecN9ot
+,194840.0,True,,"Ariana Grande, Future",,Everyday,7,,2016-05-20,ariana grande everyday,spotify:track:6yL2kTsdVwYnGwPkKGtMd5
+,205920.0,False,,Ariana Grande,,no tears left to cry,11,,2018-08-17,ariana grande no tears left to cry,spotify:track:2qT1uLXPVPzGgFOx4jtEuo
+,226160.0,True,,"Ariana Grande, Nicki Minaj",,Side To Side,6,,2016-05-20,ariana grande side to side,spotify:track:1pKeFVVUOPjFsOABub0OaV
+,228373.0,True,,"Ariana Grande, Nicki Minaj",,the light is coming (feat. Nicki Minaj),1,,2018-08-17,ariana grande the light is coming,spotify:track:0sdbFOyfgAhAhWq8DpzkaW
+,163386.0,False,,Auli'i Cravalho,,How Far I'll Go,11,,2016-11-18,auli'i cravalho how far i'll go,spotify:track:6mb6lVLNrcUgLnEN8QnDJd
+,247426.0,False,,Avicii,,Wake Me Up,1,,2013-01-01,avicii wake me up!,spotify:track:4h8VwCb1MTGoLKueQ1WgbD
+,238586.0,False,,Ayo & Teo,,Rolex,25,,2017-03-15,ayo rolex,spotify:track:0pSBuHjILhNEo55xK1zrRt
+,209355.0,False,,BLACKPINK,,DDU-DU DDU-DU,1,,2018-06-15,blackpink ddu-du ddu-du,spotify:track:2aI2k39nfa3KFsa4JclQzw
+,223122.0,False,,BTS,,DNA,4,,2017-09-18,bts dna,spotify:track:5SE57ljOIUJ1ybL9U6CuBH
+,242333.0,False,,BTS,,FAKE LOVE,6,,2018-05-18,bts fake love,spotify:track:3aW0ds4A4tSQDIp75FqWTo
+,307675.0,False,,"BTS, Steve Aoki",,MIC Drop (Steve Aoki Remix) [Full Length Edition],9,,2018-08-24,bts mic drop,spotify:track:75scDPqGs75FotglJSoOI2
+,215724.0,False,,Backstreet Boys,,Don't Go Breaking My Heart,2,,2018-05-17,backstreet boys don't go breaking my heart,spotify:track:79Mjfhh393dZdAsTvUFDR6
+,254805.0,False,,Bad Wolves,,Zombie,17,,2018-01-19,bad wolves zombie,spotify:track:1vNoA9F5ASnlBISFekDmg3
+,131064.0,True,,Bazzi,,Mine,24,,2018-04-12,bazzi mine,spotify:track:7uzmGiiJyRfuViKKK3lVmR
+,191786.0,False,,Bebe Rexha,,I Got You,7,,2018-06-22,bebe rexha i got you,spotify:track:2jB9QaPJyVdz2Q0Va8rrnU
+,163870.0,False,,"Bebe Rexha, Florida Georgia Line",,Meant to Be (feat. Florida Georgia Line),36,,2017-08-11,bebe rexha meant to be,spotify:track:7iDa6hUg2VgEL1o1HjmfBn
+,202453.0,False,,"Becky G, Bad Bunny",,Mayores,17,,2017-07-14,becky g mayores,spotify:track:7JNh1cfm0eXjqFVOzKLyau
+,151850.0,True,,"Bhad Bhabie, Lil Yachty",,Gucci Flip Flops (feat. Lil Yachty),3,,2018-09-18,bhad bhabie gucci flip flops,spotify:track:3hv6ndi7uFT9L9wrhQCsqY
+,104528.0,True,,Bhad Bhabie,,Hi Bich,1,,2017-09-21,bhad bhabie hi bich,spotify:track:5JW8njiQorZ7m2VHYddTt6
+,140007.0,True,,Bhad Bhabie,,These Heaux,3,,2017-08-24,bhad bhabie these heaux,spotify:track:6SUxrwVN19Kmd9JfIbjJUj
+,222360.0,True,,Big Sean,,Bounce Back,16,,2017-02-03,big sean bounce back,spotify:track:0SGkqnVQo9KPytSri1H6cF
+,268946.0,True,,"Big Sean, Metro Boomin, Travis Scott",,Go Legend (& Metro Boomin),1,,2017-12-08,big sean go legend,spotify:track:3wAI7MIQtTgwcRmwchPZBc
+,230960.0,True,,Big Sean,,Halfway Off The Balcony,1,,2017-02-03,big sean halfway off the balcony,spotify:track:4atJ40xfasjdM9ZF3p07BV
+,213693.0,True,,Big Sean,,Jump Out The Window,1,,2017-02-03,big sean jump out the window,spotify:track:1jQsKN68yE94tMYml0wHMd
+,210506.0,True,,"Big Sean, Jeremih",,Light,1,,2017-02-03,big sean light,spotify:track:0URaKGzNTtzKRtsJN1RkA9
+,142906.0,True,,Big Sean,,Moves,14,,2017-02-03,big sean moves,spotify:track:0Fv5N0cHBsl4bzCbollCAS
+,325840.0,True,,"Big Sean, Eminem",,No Favors,3,,2017-02-03,big sean no favors,spotify:track:1MksGqIztTT6M9R1ErKVs8
+,271693.0,True,,Big Sean,,Owe Me,1,,2017-02-03,big sean owe me,spotify:track:1u0MOgWF1bbylVxpJG2ZjB
+,227533.0,True,,"Big Sean, Metro Boomin, 21 Savage",,Pull Up N Wreck (& Metro Boomin),2,,2017-12-08,big sean pull up n wreck,spotify:track:7DuvVy7JfFgXwWlVzyyPys
+,287320.0,True,,"Big Sean, Migos",,Sacrifices,1,,2017-02-03,big sean sacrifices,spotify:track:1r0faljjM2b876iNoaDUh5
+,200185.0,False,,"Billie Eilish, Khalid",,lovely (with Khalid),5,,2018-04-19,billie eilish lovely,spotify:track:0u2P5u6lvoDfwTYjAADbn4
+,234306.0,False,,Billy Currington,,Do I Make You Wanna,19,,2015-06-02,billy currington do i make you wanna,spotify:track:3I7krC8kr0gFR7P6vInR1I
+,160037.0,True,,Blac Youngsta,,Booty,5,,2018-02-27,blac youngsta booty,spotify:track:0FbSpY8RPxTRxi1Fpj9Dz9
+,212027.0,True,,blackbear,,do re mi,25,,2017-04-21,blackbear do re mi,spotify:track:3Q3myFA7q4Op95DOpHplaY
+,189466.0,False,,Blake Shelton,,A Guy With a Girl,6,,2016-05-20,blake shelton a guy with a girl,spotify:track:5sjIhQzNljMVrDklI91ezp
+,214800.0,False,,Blake Shelton,,Every Time I Hear That Song,11,,2016-05-20,blake shelton every time i hear that song,spotify:track:0c4ICGb0jvszKj3KPR59JU
+,219600.0,False,,Blake Shelton,,I Lived It,18,,2017-11-03,blake shelton i lived it,spotify:track:5slddJ629YcePvqD6Uyk8r
+,183640.0,False,,Blake Shelton,,I'll Name the Dogs,19,,2017-11-03,blake shelton i'll name the dogs,spotify:track:609qKv3KPAbdtp0LQH2buA
+,181263.0,True,,"BlocBoy JB, Drake",,Look Alive (feat. Drake),21,,2018-02-09,blocboy jb look alive,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL
+,131733.0,False,,Bobby Helms,,Jingle Bell Rock,1,,1998-01-01,bobby helms jingle bell rock,spotify:track:6xE98wKYt4vZk8j7cctjw8
+,229338.0,False,,Brad Paisley,,Today,7,,2017-04-21,brad paisley today,spotify:track:1IO13V09b01gLSbmZJZ9dM
+,187760.0,False,,Brantley Gilbert,,The Weekend,16,,2017-01-27,brantley gilbert the weekend,spotify:track:48tAdjG4ng2JfECa7OQujk
+,126266.0,False,,Brenda Lee,,Rockin' Around The Christmas Tree,3,,1964-10-19,brenda lee rockin' around the christmas tree,spotify:track:2EjXfH91m7f8HiJN1yQg97
+,208720.0,False,,Brett Eldredge,,The Long Way,12,,2017-08-04,brett eldredge the long way,spotify:track:5vuMtXS5kQ7F0o9V9rG1dG
+,224853.0,False,,Brett Young,,In Case You Didn't Know,28,,2017-02-10,brett young in case you didn't know,spotify:track:10M2Ex445zw585Ducldzkw
+,207186.0,False,,Brett Young,,Like I Loved You,19,,2017-02-10,brett young like i loved you,spotify:track:3T6MAweakkNrMYs8jZIWtg
+,217120.0,False,,Brett Young,,Mercy,9,,2017-02-10,brett young mercy,spotify:track:2VIPU72L6tIR4w8J8ap6Kp
+,216800.0,False,,Brothers Osborne,,It Ain't My Fault,16,,2016-01-15,brothers osborne it ain't my fault,spotify:track:08wJ1B9yu9sPeoRa5fbpr3
+,206693.0,False,,Bruno Mars,,That's What I Like,25,,2016-11-17,bruno mars 24k magic,spotify:track:0KKkJNfGyhkQ5aFogxQAPU
+,217288.0,False,,"Bruno Mars, Cardi B",,Finesse - Remix; feat. Cardi B,23,,2017-12-20,bruno mars finesse,spotify:track:3Vo4wInECJQuz9BIBMOu8i
+,206693.0,False,,Bruno Mars,,That's What I Like,49,,2016-11-17,bruno mars that's what i like,spotify:track:0KKkJNfGyhkQ5aFogxQAPU
+,261240.0,False,,Bruno Mars,,Versace on the Floor,12,,2016-11-17,bruno mars versace on the floor,spotify:track:0kN8xEmgMW9mh7UmDYHlJP
+,209040.0,True,,Bryson Tiller,,Don't Get Too High,1,,2017-05-26,bryson tiller don't get too high,spotify:track:0OVhQZkNe7lh0fQeH96EFW
+,134746.0,True,,Bryson Tiller,,No Longer Friends,1,,2017-05-26,bryson tiller no longer friends,spotify:track:4IdAIZRVkwuQQnHpi529cn
+,169266.0,True,,Bryson Tiller,,Run Me Dry,1,,2017-05-26,bryson tiller run me dry,spotify:track:5GG3knKdxKWrNboRijxeKF
+,167853.0,True,,Bryson Tiller,,Self-Made,1,,2017-05-26,bryson tiller self-made,spotify:track:2rUwQj4SWaP2anuGDtNpYR
+,194266.0,True,,Bryson Tiller,,Somethin Tells Me,1,,2017-05-26,bryson tiller somethin tells me,spotify:track:3Jrs7cC2OJNlNSy9VnDOMZ
+,135533.0,False,,Burl Ives,,A Holly Jolly Christmas - Single Version,3,,1965-01-01,burl ives a holly jolly christmas,spotify:track:65Q2mv3UlVi9eO70OpsmSe
+,260285.0,False,,Calum Scott,,Dancing On My Own,1,,2018-03-09,calum scott dancing on my own,spotify:track:2BOqDYLOJBiMOXShCV1neZ
+,240093.0,True,,"Calvin Harris, Kehlani, Lil Yachty",,Faking It (feat. Kehlani & Lil Yachty),4,,2017-06-30,calvin harris faking it,spotify:track:0pJPdSVti6cTM1Q6xYGmcf
+,223413.0,True,,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean",,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",18,,2017-06-30,calvin harris feels,spotify:track:5bcTCxgc7xVfSaMV3RuVke
+,229160.0,True,,"Calvin Harris, Young Thug, Pharrell Williams, Ariana Grande",,"Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",1,,2017-06-30,calvin harris heatstroke,spotify:track:60APt5N2NRaKWf5xzJdzyC
+,214846.0,False,,"Calvin Harris, Dua Lipa",,One Kiss (with Dua Lipa),13,,2018-04-06,calvin harris one kiss,spotify:track:7ef4DlsgrMEH11cDZd32M6
+,272666.0,True,,"Calvin Harris, Future, Khalid",,Rollin,4,,2017-05-12,calvin harris rollin,spotify:track:3FDrI0FLKzrYQiWxPhqV2W
+,230813.0,True,,"Calvin Harris, Frank Ocean, Migos",,Slide (feat. Frank Ocean & Migos),20,,2017-02-24,calvin harris slide,spotify:track:6gpcs5eMhJwax4mIfKDYQk
+,216391.0,False,,Camila Cabello,,Crying in the Club,9,,2017-05-18,camila cabello crying in the club,spotify:track:1SJtlNRJDeYHioymcvsqev
+,217306.0,False,,"Camila Cabello, Young Thug",,Havana (feat. Young Thug),45,,2018-01-12,camila cabello havana,spotify:track:1rfofaqEpACxVEHIZBJe6W
+,226973.0,False,,Camila Cabello,,Never Be the Same,29,,2018-01-12,camila cabello never be the same,spotify:track:4eWQlBRaTjPPUlzacqEeoQ
+,228893.0,False,,"Camila Cabello, Quavo",,OMG,1,,2017-08-03,camila cabello omg,spotify:track:4xBjsLUSjcx2h7PcRikpQp
+,224284.0,True,,"Cardi B, 21 Savage",,Bartier Cardi (feat. 21 Savage),19,,2018-04-06,cardi b bartier cardi,spotify:track:0dIoGTQXDh1wVnhIiSyYEa
+,210787.0,True,,Cardi B,,Be Careful,14,,2018-04-06,cardi b be careful,spotify:track:2Yl4OmDby9iitgNWZPwxkd
+,284855.0,True,,"Cardi B, Chance the Rapper",,Best Life (feat. Chance The Rapper),3,,2018-04-06,cardi b best life,spotify:track:00B7TZ0Xawar6NZ00JFomN
+,181623.0,True,,Cardi B,,Bickenhead,2,,2018-04-06,cardi b bickenhead,spotify:track:17Yq72h0p15OhCbZ5lJ5gd
+,220395.0,False,,2017 Dynamo Hitz,,Bodak Yellow (Money Moves),34,,2017-09-13,cardi b bodak yellow (money moves),spotify:track:3g2qgbWPl8TcgJIkstWpSV
+,262308.0,True,,"Cardi B, Migos",,Drip (feat. Migos),10,,2018-04-06,cardi b drip,spotify:track:2qcG0nZ6S3zZV0UrkY5nFo
+,231453.0,True,,Cardi B,,Get Up 10,2,,2018-04-06,cardi b get up 10,spotify:track:7p2ewixAShLpjDZrnzZK7c
+,200205.0,True,,"Cardi B, SZA",,I Do (feat. SZA),5,,2018-04-06,cardi b i do,spotify:track:1f5PNhkNgUpvDEeZfcIlO1
+,229004.0,True,,Cardi B,,Money Bag,2,,2018-04-06,cardi b money bag,spotify:track:1vBeIXlzbAieGoDqInav5j
+,177139.0,True,,"Cardi B, Kehlani",,Ring (feat. Kehlani),4,,2018-04-06,cardi b ring,spotify:track:5DfWF0jqMgZDCiu9zJENTA
+,230952.0,True,,"Cardi B, YG",,She Bad,2,,2018-04-06,cardi b she bad,spotify:track:0CfmNX2TXk7yoJqHJiixnp
+,188523.0,True,,Cardi B,,Thru Your Phone,3,,2018-04-06,cardi b thru your phone,spotify:track:74cVJfmK18rhWnscIpGXjt
+,253390.0,True,,"Cardi B, Bad Bunny, J Balvin",,I Like It,13,,2018-04-06,"cardi b, bad bunny i like it",spotify:track:58q2HKrzhC3ozto2nDdN4z
+,197826.0,False,,Carly Pearce,,If My Name Was Whiskey,17,,2017-10-13,carly pearce every little thing,spotify:track:2EXCLMhZF0XqmdCsSMYwt3
+,246466.0,False,,Carrie Underwood,,Cry Pretty,4,,2018-04-11,carrie underwood cry pretty,spotify:track:47gqRMoIkFm7Rac86xZVh7
+,204093.0,False,,Carrie Underwood,,Dirty Laundry,1,,2015-10-23,carrie underwood dirty laundry,spotify:track:5qRRiqndqXaq2QBudIrkYU
+,223998.0,False,,"Carrie Underwood, Ludacris",,The Champion,3,,2018-01-12,carrie underwood the champion,spotify:track:0stPNUkU1LZnvxIcfrKnEZ
+,417920.0,True,,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",,Te Boté - Remix,11,,2018-04-13,"casper magico, nio garcia, darell, nicky jam, ozuna te bote",spotify:track:3V8UKqhEK5zBkBb6d6ub8i
+,208786.0,False,,Charlie Puth,,Attention,39,,2018-05-11,charlie puth attention,spotify:track:5cF0dROlMOK5uNZtivgu50
+,180493.0,False,,"Charlie Puth, Kehlani",,Done for Me (feat. Kehlani),9,,2018-05-11,charlie puth done for me,spotify:track:1lsBTdE6MGsKeZCD6llNu7
+,200853.0,False,,Charlie Puth,,How Long,23,,2018-05-11,charlie puth how long,spotify:track:6wmAHw1szh5RCKSRjiXhPe
+,222786.0,False,,"Cheat Codes, Demi Lovato",,No Promises (feat. Demi Lovato),23,,2017-03-31,cheat codes no promises,spotify:track:5lNuqFVMca4vPupY10cH0J
+,326933.0,True,,Childish Gambino,,Redbone,35,,2016-12-02,childish gambino redbone,spotify:track:0wXuerDYiBnERgIpbb3JBR
+,225773.0,True,,Childish Gambino,,This Is America,9,,2018-05-06,childish gambino this is america,spotify:track:0b9oOr2ZgvyQu88wzixux9
+,190720.0,False,,"China Anne McClain, Thomas Doherty, Dylan Playfair",,What's My Name,3,,2017-07-21,"china anne mcclain, thomas doherty what's my name",spotify:track:53xAT6jud1w0NqlBjSW4VB
+,181794.0,False,,Chloe Kohanski,,Total Eclipse Of The Heart - The Voice Performance,1,,2017-12-20,chloe kohanski total eclipse of the heart,spotify:track:1pFkLWesh2zpoFTs2g4SFt
+,220630.0,False,,Chloe Kohanski,,Wish I Didn’t Love You - The Voice Performance,1,,2017-12-20,chloe kohanski wish i didn't love you,spotify:track:0SqmAwQrNyypiTroSwVjbX
+,194663.0,False,,Chris Blue,,Money On You - The Voice Performance,1,,2017-05-24,chris blue money on you,spotify:track:35ap6ekPdkGkiUkWfWhZB4
+,202213.0,True,,"Chris Brown, Future, Young Thug",,High End,2,,2017-10-13,chris brown high end,spotify:track:2XdgSB4TtzUHQYCMfSHbFI
+,220813.0,True,,"Chris Brown, Usher, Gucci Mane",,Party,14,,2016-12-16,chris brown party,spotify:track:05Z7jet4VDNVgNQWcYHnrk
+,292910.0,True,,"Chris Brown, Yo Gotti, A Boogie Wit da Hoodie, Kodak Black",,Pills & Automobiles,19,,2017-08-04,chris brown pills and automobiles,spotify:track:4YkwUfWSIxdKNLDXw0caFO
+,220963.0,True,,Chris Brown,,Privacy,17,,2017-03-24,chris brown privacy,spotify:track:2Vf2Pflg5rTWSvSCK4qq4A
+,129477.0,False,,Chris Brown,,Questions,13,,2017-08-18,chris brown questions,spotify:track:5XQMr19TL7Mfksq9zihbOu
+,218744.0,True,,Chris Brown,,Tempo,4,,2017-10-31,chris brown tempo,spotify:track:0709StHzSeXpdj2zmqF2o2
+,188933.0,False,,Chris Janson,,Fix a Drink,14,,2017-09-22,chris janson fix a drink,spotify:track:0s6OWiWGuiCcm1Muzch5A8
+,211226.0,False,,Chris Lane,,For Her,4,,2016-07-12,chris lane for her,spotify:track:19yTqpHTUrw7mOcRDvXYzn
+,212080.0,False,,"Chris Lane, Tori Kelly",,Take Back Home Girl (feat. Tori Kelly),5,,2018-07-13,chris lane take back home girl,spotify:track:0N9uZRrJQ3lO5TmInEjLxc
+,180906.0,False,,Chris Stapleton,,Broken Halos,20,,2017-05-05,chris stapleton broken halos,spotify:track:06gD2ZtK3Dzc1BYqWExQJJ
+,248053.0,False,,Chris Stapleton,,Either Way,2,,2017-05-05,chris stapleton either way,spotify:track:6Wo5YxkdXgwzKQZbDg2r17
+,178253.0,False,,Chris Young,,Losing Sleep,19,,2017-10-20,chris young losing sleep,spotify:track:6waqLPcT6ruMhmd36OhmFO
+,194560.0,False,,"Chris Young, Vince Gill",,Sober Saturday Night (feat. Vince Gill),7,,2015-11-13,chris young sober saturday night,spotify:track:081t95JRuDUrQYSS3h8iKk
+,205986.0,False,,"Clean Bandit, Julia Michaels",,I Miss You (feat. Julia Michaels),1,,2018-11-30,clean bandit i miss you,spotify:track:0Ult84lvFuqNvbyXwyRQ58
+,251088.0,False,,"Clean Bandit, Sean Paul, Anne-Marie",,Rockabye (feat. Sean Paul & Anne-Marie),19,,2016-10-21,clean bandit rockabye,spotify:track:5knuzwU65gJK7IF5yJsuaW
+,222653.0,False,,"Clean Bandit, Demi Lovato",,Solo (feat. Demi Lovato),1,,2018-05-17,clean bandit solo,spotify:track:6kPJZM97LwdG9QIsT7khp6
+,199693.0,False,,Cole Swindell,,Break up in the End,1,,2018-08-17,cole swindell break up in the end,spotify:track:5Z19ylxppfnfdP4JH0u8oj
+,177066.0,False,,"Cole Swindell, Dierks Bentley",,Flatliner (feat. Dierks Bentley),18,,2016-05-06,cole swindell flatliner,spotify:track:0WyFpxYlBCgH1gMXd26OOr
+,226157.0,False,,Karaoke Instrumental Masters Collection,,Broccoli (Originally Performed by D.R.A.M.) - Instrumental Karaoke Version,4,,2017-10-06,d.r.a.m. broccoli,spotify:track:4JrTU7Hw1y9dkzcmGiQ69G
+,229146.0,True,,"DJ Khaled, Calvin Harris, Travis Scott, Jeremih",,Don't Quit (feat. Travis Scott & Jeremih),1,,2017-06-22,dj khaled don't quit,spotify:track:6LOCAhFzZiavHcLJucLuDy
+,288876.0,True,,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",22,,2017-06-22,dj khaled i'm the one,spotify:track:1jYiIOC5d6soxkJP81fxq2
+,233293.0,True,,"DJ Khaled, Travis Scott, Rick Ross, Big Sean",,"On Everything (feat. Travis Scott, Rick Ross & Big Sean)",1,,2017-06-22,dj khaled on everything,spotify:track:7lxZbmtC6SkUc2yXBgDOdO
+,284000.0,True,,"DJ Khaled, Beyoncé, JAY Z",,Shining (feat. Beyoncé & Jay-Z),14,,2017-06-22,dj khaled shining,spotify:track:7Fa5UNizycSms5jP3SQD3F
+,193901.0,True,,"DJ Khaled, Drake",,To the Max,4,,2017-06-22,dj khaled to the max,spotify:track:2of5xn0GU0TdFneR1saRLH
+,230712.0,True,,"DJ Khaled, JAY Z, Future, Beyoncé",,Top Off,7,,2018-03-02,dj khaled top off,spotify:track:1W6wxOOYyJyyok8fqYSZ3m
+,204664.0,True,,"DJ Khaled, Rihanna, Bryson Tiller",,Wild Thoughts (feat. Rihanna & Bryson Tiller),21,,2017-06-22,dj khaled wild thoughts,spotify:track:45XhKYRRkyeqoW3teSOkCM
+,219512.0,True,,DJ Luke Nasty,,OTW,2,,2016-05-13,dj luke nasty otw,spotify:track:5qi7piHIt9zwTYYBnIvfNZ
+,205946.0,False,,"DJ Snake, Justin Bieber",,Let Me Love You,8,,2016-08-05,dj snake let me love you,spotify:track:0lYBSQXN6rCTvUZvg9S0lU
+,129384.0,True,,DJ Suede The Remix God,,Cash Me Outside (#CashmeOutside),3,,2017-01-31,dj suede the remix god cash me outside (#cashmeoutside),spotify:track:1r6cyaW7yMykwSyxTuwcuM
+,200480.0,False,,Daddy Yankee,,Dura,21,,2018-01-18,daddy yankee dura,spotify:track:6KuqAtoeVzxAYOaMveLNpH
+,192000.0,False,,Dan + Shay,,How Not To,14,,2016-06-03,dan + shay how not to,spotify:track:4n0xztUAbHPUV8G3NQvF30
+,195986.0,False,,Dan + Shay,,Tequila,17,,2018-01-10,dan + shay tequila,spotify:track:7Il2yWQmsqKgSkLQvHTPUI
+,278179.0,False,,"Daniel Caesar, Kali Uchis",,Get You (feat. Kali Uchis),6,,2017-08-25,daniel caesar get you,spotify:track:7zFXmv6vqI4qOt4yGf3jYZ
+,197053.0,False,,Darius Rucker,,For The First Time,10,,2017-10-20,darius rucker for the first time,spotify:track:0LG2cFomCi8Fb664Lvr3Nu
+,212320.0,False,,Darius Rucker,,If I Told You,11,,2017-10-20,darius rucker if i told you,spotify:track:4Az17HfqonKSWNsaLgTBeK
+,194906.0,False,,"David Guetta, Justin Bieber",,2U,11,,2017-06-09,david guetta 2u,spotify:track:762UXiwEHYY97VL45sAUPR
+,229573.0,False,,"David Lee Murphy, Kenny Chesney",,Everything's Gonna Be Alright,11,,2018-04-06,david lee murphy everything's gonna be alright,spotify:track:2NEBP8SXEqwZt2PRdPXXuy
+,169853.0,False,,DeJ Loaf,,No Fear,1,,2017-06-16,dej loaf no fear,spotify:track:2H881m3JRA8lpuuwaQL6zy
+,197893.0,False,,Demi Lovato,,Sober,1,,2018-06-21,demi lovato sober,spotify:track:0STK94RxUulYqWzwFlyAb5
+,203760.0,True,,Demi Lovato,,Sorry Not Sorry,35,,2017-09-29,demi lovato sorry not sorry,spotify:track:7gvd8xj4QgPqbQSsn5pV7d
+,203760.0,True,,Demi Lovato,,Sorry Not Sorry,19,,2017-09-29,demi lovato tell me you love me,spotify:track:7gvd8xj4QgPqbQSsn5pV7d
+,236032.0,True,,Derez De’Shon,,Hardaway,11,,2017-12-08,derez de'shon hardaway,spotify:track:4hxfqUojJ5u9SyAjiXevmy
+,249482.0,False,,Vox Freaks,,It's Goin' Down (Originally Performed by Descendants 2 Cast) [Instrumental Version],4,,2017-07-31,descendants 2 cast it's goin' down,spotify:track:56V4lnkkgjEGkl7rS0R6Jk
+,224626.0,False,,Devin Dawson,,All on Me,20,,2018-01-19,devin dawson all on me,spotify:track:2mfahQ0EaaZWq4cFNg6A1o
+,197120.0,False,,Dierks Bentley,,Somewhere On A Beach,17,,2016-06-10,dierks bentley black,spotify:track:5CG9Ps5ynNjpKJHmwc95pa
+,179826.0,False,,Dierks Bentley,,"Woman, Amen",12,,2018-06-08,"dierks bentley woman, amen",spotify:track:3nBXOlFTADNvG9nkqy2O2W
+,181720.0,True,,"Diplo, French Montana, Lil Pump, Zhavia Ward",,"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",4,,2018-05-15,"diplo, french montana welcome to the party",spotify:track:5mqzhMuUpvnMfwNz6iepmO
+,186293.0,False,,"Drake, Sampha",,4422,2,,2017-03-18,drake 4422,spotify:track:2fkeWbM6iqTw7oGHTYm2lw
+,195720.0,True,,Drake,,8 Out Of 10,1,,2018-06-29,drake 8 out of 10,spotify:track:0zqy3ss4CwD6u4QPksS0nI
+,289560.0,True,,"Drake, Static Major, Ty Dolla $ign",,After Dark (feat. Static Major & Ty Dolla $ign),1,,2018-06-29,drake after dark,spotify:track:3mvYQKm8h6M5K5h0nVPY9S
+,216557.0,False,,Drake,,Blem,4,,2017-03-18,drake blem,spotify:track:2XlHu0HcujBCkWMdIAvrqt
+,162800.0,True,,Drake,,Blue Tint,1,,2018-06-29,drake blue tint,spotify:track:4n1bdaKwynQndm47x5HqWX
+,228437.0,True,,Drake,,Can't Have Everything,2,,2017-03-18,drake can't have everything,spotify:track:5f5r2N4Lp9WoULWPH9zp2W
+,163974.0,True,,Drake,,Can’t Take A Joke,1,,2018-06-29,drake can't take a joke,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm
+,255866.0,True,,Drake,,Diplomatic Immunity,3,,2018-01-20,drake diplomatic immunity,spotify:track:4haJoBPbPj9QFKNpp9e8kx
+,283550.0,True,,Drake,,Do Not Disturb,2,,2017-03-18,drake do not disturb,spotify:track:2KvHC9z14GSl4YpkNMX384
+,245786.0,False,,"Drake, Michael Jackson",,Don’t Matter To Me (with Michael Jackson),1,,2018-06-29,drake don't matter to me,spotify:track:6G8kHiVZ1jW7vHMPVRNZU0
+,184960.0,True,,Drake,,Elevate,1,,2018-06-29,drake elevate,spotify:track:3szf2z1Cy1QMrtHrbn8rz9
+,302173.0,True,,Drake,,Emotionless,1,,2018-06-29,drake emotionless,spotify:track:5Psnhdkyanjpgc2P8A5TSM
+,210937.0,True,,Drake,,Fake Love,11,,2017-03-18,drake fake love,spotify:track:343YBumqHu19cGoGARUTsd
+,219960.0,True,,Drake,,Final Fantasy,1,,2018-06-29,drake final fantasy,spotify:track:44Du2IM1bGY7dicmLfXbUs
+,182080.0,False,,Drake,,Finesse,1,,2018-06-29,drake finesse,spotify:track:2WP8G2pdddDmnh1xbfKBOI
+,218673.0,True,,Drake,,Free Smoke,4,,2017-03-18,drake free smoke,spotify:track:05KOgYg8PGeJyyWBPi5ja8
+,250337.0,True,,"Drake, Black Coffee, Jorja Smith",,Get It Together,2,,2017-03-18,drake get it together,spotify:track:7y6c07pgjZvtHI9kuMVqk1
+,206119.0,True,,"Drake, Kanye West",,Glow,2,,2017-03-18,drake glow,spotify:track:28irpKCCK9nn9DZSik2zEx
+,198973.0,True,,Drake,,God's Plan,24,,2018-06-29,drake god's plan,spotify:track:6DCZcSspjsKoFjzjrWoCdn
+,189229.0,True,,Drake,,Gyalchester,11,,2017-03-18,drake gyalchester,spotify:track:6UjfByV1lDLW0SOVQA4NAi
+,214466.0,True,,Drake,,I'm Upset,6,,2018-06-29,drake i'm upset,spotify:track:3qN5qMTKyEEmiTZD38BNTT
+,250770.0,True,,"Drake, Young Thug",,Ice Melts,2,,2017-03-18,drake ice melts,spotify:track:7bJ4mu7MHa3rHiNyKjOoSl
+,217925.0,True,,Drake,,In My Feelings,1,,2018-06-29,drake in my feelings,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ
+,226906.0,True,,Drake,,Is There More,1,,2018-06-29,drake is there more,spotify:track:1Tnw0ItH1Macok8gblnPPd
+,262453.0,True,,Drake,,Jaded,1,,2018-06-29,drake jaded,spotify:track:4c2xt1trwYZpMqPWY35Xi9
+,107673.0,True,,Drake,,Jorja Interlude,2,,2017-03-18,drake jorja interlude,spotify:track:13e6f8t7RKXuxZ0JdaaJRG
+,162637.0,True,,"Drake, Giggs",,KMT,2,,2017-03-18,drake kmt,spotify:track:2jTujnt0y344ai1rNOywgr
+,305373.0,True,,Drake,,Lose You,1,,2017-03-18,drake lose you,spotify:track:2Na0z2gfN67Rzf0vp74Wi3
+,205162.0,False,,Drake,,Madiba Riddim,2,,2017-03-18,drake madiba riddim,spotify:track:76gUmNLXGQVOsGhfcshkFP
+,309560.0,True,,Drake,,March 14,1,,2018-06-29,drake march 14,spotify:track:09lmraDvzBT3pUQ2rUtJzK
+,205146.0,True,,Drake,,Mob Ties,1,,2018-06-29,drake mob ties,spotify:track:7rC5Pl8rQSX4myONQHYPBK
+,210746.0,True,,Drake,,Nice For What,13,,2018-06-29,drake nice for what,spotify:track:3CA9pLiwRIGtUBiMjbZmRw
+,149568.0,True,,"Drake, Giggs",,No Long Talk,2,,2017-03-18,drake no long talk,spotify:track:6CfrYuD3YRDYdYvH9jNtXY
+,238614.0,True,,Drake,,Nonstop,1,,2018-06-29,drake nonstop,spotify:track:0TlLq3lA83rQOYtrqBqSct
+,153724.0,False,,Drake,,Nothings Into Somethings,2,,2017-03-18,drake nothings into somethings,spotify:track:6MbH1QiphMCPTqVEVC7UYi
+,298940.0,True,,Drake,,Passionfruit,20,,2017-03-18,drake passionfruit,spotify:track:5mCPDVBb16L4XQwDdbRUpz
+,206026.0,True,,Drake,,Peak,1,,2018-06-29,drake peak,spotify:track:11L064movtyopGdLiX4sVg
+,236614.0,True,,"Drake, Quavo, Travis Scott",,Portland,16,,2017-03-18,drake portland,spotify:track:2bjwRfXMk4uRgOD9IBYl9h
+,207306.0,True,,Drake,,Ratchet Happy Birthday,1,,2018-06-29,drake ratchet happy birthday,spotify:track:4SUwJA3eUVNHExxMPEUhQe
+,307593.0,True,,"Drake, 2 Chainz, Young Thug",,Sacrifices,3,,2017-03-18,drake sacrifices,spotify:track:0xl1w2q4VLojeXp4JfazPL
+,216333.0,True,,Drake,,Sandra’s Rose,1,,2018-06-29,drake sandra's rose,spotify:track:6cblRiEGDRNZgowcm951R3
+,234373.0,False,,Drake,,Signs,6,,2017-06-23,drake signs,spotify:track:6Na5uKk5SsqZimk0hAWo8y
+,368035.0,False,,"Drake, PARTYNEXTDOOR",,Since Way Back,1,,2017-03-18,drake since way back,spotify:track:5JUu0unA8VwhTZ9LkMWUVI
+,143213.0,True,,Drake,,Skepta Interlude,1,,2017-03-18,drake skepta interlude,spotify:track:2dfqS3MRtbLZSZA1IL8xY5
+,247893.0,False,,Drake,,Summer Games,1,,2018-06-29,drake summer games,spotify:track:4HG1YiGBseVKzjyKcmAJen
+,136186.0,True,,Drake,,Survival,1,,2018-06-29,drake survival,spotify:track:2yg9UN4eo5eMVJ7OB4RWj3
+,223240.0,True,,"Drake, JAY Z",,Talk Up (feat. Jay-Z),1,,2018-06-29,drake talk up,spotify:track:4ksuI04WMvUnJbHQjgs3L5
+,219692.0,True,,Drake,,Teenage Fever,4,,2017-03-18,drake teenage fever,spotify:track:6n3HGiq4v35D6eFOSwqYuo
+,157605.0,True,,Drake,,That’s How You Feel,1,,2018-06-29,drake that's how you feel,spotify:track:41a7dZcq30Ss5kPMayWRV0
+,217946.0,True,,Dua Lipa,,IDGAF,23,,2017-06-02,dua lipa idgaf,spotify:track:76cy1WJvNGJTj78UqeA5zr
+,209320.0,False,,Dua Lipa,,New Rules,47,,2017-06-02,dua lipa new rules,spotify:track:2ekn2ttSfGqwhhate0LSR0
+,194893.0,False,,Dustin Lynch,,Seein' Red,4,,2017-09-08,dustin lynch seein' red,spotify:track:7pxhKtuTwofDIdgHx2DcVK
+,205733.0,False,,Dustin Lynch,,Small Town Boy,20,,2017-09-08,dustin lynch small town boy,spotify:track:2YMhrXQYKkm4kXLcXKKd5z
+,163893.0,False,,Dwayne Johnson,,You're Welcome,5,,2016-11-18,dwayne johnson you're welcome,spotify:track:6U4VqEHy4n5VeiH4pQPL24
+,197640.0,False,,Dylan Scott,,My Girl,20,,2017-08-04,dylan scott my girl,spotify:track:3izNaTiYdotdPL0Bs76JqO
+,217840.0,False,,Easton Corbin,,A Girl Like You,1,,2017-01-27,easton corbin a girl like you,spotify:track:3AsNVBJ7LHsltdu9490ZiS
+,191146.0,False,,Ed Sheeran,,Barcelona,1,,2017-03-03,ed sheeran barcelona,spotify:track:3Lfiu5sZ4M4B6JaKMBc0FU
+,261153.0,False,,Ed Sheeran,,Castle on the Hill,30,,2017-03-03,ed sheeran castle on the hill,spotify:track:6PCUP3dWmTjcTtXY02oFdT
+,238440.0,False,,Ed Sheeran,,Dive,2,,2017-03-03,ed sheeran dive,spotify:track:51ChrwmUPDJvedPQnIU8Ls
+,227426.0,False,,Ed Sheeran,,Eraser,1,,2017-03-03,ed sheeran eraser,spotify:track:7oolFzHipTMg2nL7shhdz2
+,170826.0,False,,Ed Sheeran,,Galway Girl,5,,2017-03-03,ed sheeran galway girl,spotify:track:0afhq8XCExXpqazXczTSve
+,207520.0,False,,Ed Sheeran,,Happier,2,,2017-03-03,ed sheeran happier,spotify:track:2RttW7RAu5nOAfq6YFvApB
+,248413.0,False,,Ed Sheeran,,Hearts Don't Break Around Here,1,,2017-03-03,ed sheeran hearts don't break around here,spotify:track:2dfHh7ECGxfNqZTQno09Vk
+,280533.0,False,,Ed Sheeran,,How Would You Feel (Paean),2,,2017-03-03,ed sheeran how would you feel (paean),spotify:track:6PJ8FF6UR8FZXfEvpHkIVN
+,189280.0,False,,Ed Sheeran,,New Man,1,,2017-03-03,ed sheeran new man,spotify:track:5HDPtsnyb3maFmPL8LLUTG
+,263400.0,False,,Ed Sheeran,,Perfect,44,,2017-03-03,ed sheeran perfect,spotify:track:0tgVpDi06FyKpA1z0VMD4v
+,233712.0,False,,Ed Sheeran,,Shape of You,55,,2017-03-03,ed sheeran shape of you,spotify:track:7qiZfU4dY1lWllzX7mPBI3
+,221106.0,False,,Ed Sheeran,,Supermarket Flowers,1,,2017-03-03,ed sheeran supermarket flowers,spotify:track:4VuS959DSpr82t3qBqCrWG
+,237333.0,False,,Ed Sheeran,,What Do I Know?,1,,2017-03-03,ed sheeran what do i know?,spotify:track:2pJZ1v8HezrAoZ0Fhzby92
+,178366.0,False,,"Pitbull, El Chombo, Karol G, Cutty Ranks",,Dame Tu Cosita (feat. Cutty Ranks) - Radio Version,9,,2018-08-29,el chombo dame tu cosita,spotify:track:5BVMLKioofuSf51g1DKDP9
+,256063.0,False,,Ella Mai,,Boo'd Up,14,,2017-02-22,ella mai boo'd up,spotify:track:0At2qAoaVjIwWNAqrscXli
+,315346.0,True,,Eminem,,Believe,1,,2017-12-15,eminem believe,spotify:track:4iTyf5pLZMOR8YrEZgSopo
+,221013.0,True,,"Eminem, Ed Sheeran",,River (feat. Ed Sheeran),12,,2017-12-15,eminem river,spotify:track:1cS0TgbR263ey9jn0MwD2s
+,370133.0,True,,Eminem,,Untouchable,1,,2017-12-15,eminem untouchable,spotify:track:6IvespQWGW4USXwexlVKDm
+,303640.0,True,,"Eminem, Beyoncé",,Walk On Water (feat. Beyoncé),4,,2017-12-15,eminem walk on water,spotify:track:7CcoUAtUcYhUfBsmtn0ajO
+,228138.0,False,,"Enrique Iglesias, Bad Bunny",,EL BAÑO,1,,2018-01-12,enrique iglesias el bano,spotify:track:2vvdTrdryjsl8DmPIMDWZU
+,208162.0,False,,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",,SUBEME LA RADIO,9,,2017-02-24,enrique iglesias subeme la radio,spotify:track:7nKBxz47S9SD79N086fuhn
+,199213.0,False,,Eric Church,,Kill A Word,8,,2015-11-11,eric church kill a word,spotify:track:0ipcmHor30Y8p6hCd8QUVq
+,214626.0,False,,Eric Church,,Round Here Buzz,18,,2015-11-11,eric church round here buzz,spotify:track:52ioLaTnO2J7BWY8UN2n9D
+,142000.0,True,,Famous Dex,,JAPAN,15,,2018-04-06,famous dex japan,spotify:track:5PTG6rrL6EPFD9E2QMI2pl
+,191251.0,True,,"Famous Dex, A$AP Rocky",,PICK IT UP (feat. A$AP Rocky),19,,2017-10-20,famous dex pick it up,spotify:track:3ncgNpxLoBQ65ABk4djDyd
+,237160.0,True,,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage, Rvssian",,Krippy Kush - Remix,5,,2017-11-21,"farruko, nicki minaj, bad bunny, 21 savage krippy kush",spotify:track:038kavjqUaGIYZL5lYocvX
+,165200.0,False,,"Fifth Harmony, Gucci Mane",,Down,10,,2017-10-29,fifth harmony down,spotify:track:0XQHz5C8PknyrEhyrKxVKa
+,193253.0,False,,Fitz and The Tantrums,,HandClap,2,,2017-07-24,fitz and the tantrums handclap,spotify:track:4qRaZYiaOsSvWC7VgcxrI0
+,157164.0,False,,"Flo Rida, 99 Percent",,Cake - Challenge Version,6,,2016-12-16,flo rida cake,spotify:track:6t2ubAB4iSYOuIpRAOGd4t
+,183413.0,False,,"Florida Georgia Line, Backstreet Boys",,"God, Your Mama, And Me",19,,2016-08-26,"florida georgia line god, your mama, and me",spotify:track:4VFE6ZNqa8jHAmbYICoAFg
+,185200.0,False,,Florida Georgia Line,,Simple,5,,2019-02-15,florida georgia line simple,spotify:track:4L9Ds4mpD3SuYoWwFUlv16
+,170200.0,False,,Florida Georgia Line,,Smooth,7,,2016-08-26,florida georgia line smooth,spotify:track:31x4wWBghN7f5PiEZUmcAW
+,243146.0,False,,Foster The People,,Sit Next to Me,16,,2017-07-21,foster the people sit next to me,spotify:track:4BdGO1CaObRD4La9l5Zanz
+,210285.0,True,,Frank Ocean,,Chanel,1,,2017-03-10,frank ocean chanel,spotify:track:6Nle9hKrkL1wQpwNfEkxjh
+,226790.0,True,,"French Montana, The Weeknd, Max B",,A Lie,1,,2017-07-14,french montana a lie,spotify:track:1vVNlXi8gf8tZ7OhnEs4VE
+,233901.0,True,,"French Montana, Swae Lee",,Unforgettable,41,,2017-07-14,french montana unforgettable,spotify:track:3B54sVLJ402zGa6Xm4YGNe
+,187748.0,True,,Future,,4 da Gang,1,,2017-10-20,future 4 da gang,spotify:track:3IJ6BBFLD2I2CH3hHFQj3O
+,204960.0,True,,"Future, Young Thug",,All da Smoke,1,,2017-10-20,future all da smoke,spotify:track:1wWRtPIKD7ZNvtsrzLyTev
+,254369.0,True,,"Future, The Weeknd",,Comin Out Strong,3,,2017-07-27,future comin out strong,spotify:track:1B87ZDrD3Pno9hS4stamWO
+,225134.0,True,,Future,,Draco,8,,2017-06-30,future draco,spotify:track:4GkkxswcdEt1tkSyiRzgnC
+,246173.0,True,,"Future, YG",,Extra Luv,1,,2017-06-30,future extra luv,spotify:track:1tlBuoIRrtqFs9bE9dmli5
+,166693.0,True,,Future,,Feed Me Dope,1,,2017-10-20,future feed me dope,spotify:track:3lyeSiAIdLoZUHhV8psOTI
+,204600.0,True,,Future,,Mask Off,31,,2017-06-30,future mask off,spotify:track:0VgkVdmE4gld66l8iyGjgx
+,144142.0,True,,"Future, Young Thug",,No Cap,1,,2017-10-20,future no cap,spotify:track:06Gyf2pFDVmN5K8XAawG96
+,189480.0,True,,"Future, Young Thug, Offset",,Patek Water,4,,2017-10-20,future patek water,spotify:track:7r6LNJT2LqpLpEyZQJPygt
+,265366.0,True,,Future,,Rent Money,1,,2017-06-30,future rent money,spotify:track:5W9QCBJ6Em0XWX333YrNhc
+,251422.0,True,,"Future, Rihanna",,Selfish,10,,2017-07-27,future selfish,spotify:track:6yHkPtl6UQ7RjtJLBPzbJw
+,230129.0,True,,Future,,Super Trapper,1,,2017-06-30,future super trapper,spotify:track:4XaW4jIud5YxwV4QRJOb40
+,262328.0,True,,"Lil Durk, Future",,Spin The Block (feat. Future),1,,2018-11-09,future three,spotify:track:6lCa8pjIU9n3nVI0r62EdM
+,180520.0,True,,"Future, Drake",,Used to This,6,,2016-11-04,future used to this,spotify:track:3V8sM5OOG6YfDuDLa2IIYJ
+,242933.0,True,,"Future, Nicki Minaj",,You Da Baddest,2,,2017-07-27,future you da baddest,spotify:track:4AFgK4wP1iD5i8BYaLr9Vf
+,278429.0,True,,Future,,Zoom,1,,2017-06-30,future zoom,spotify:track:2IG6Te7JyvrtqhFeOF7le4
+,225525.0,False,,"G-Eazy, Kehlani",,Good Life (with G-Eazy & Kehlani),5,,2017-03-16,g-eazy good life,spotify:track:1Eck97uRMlprKOOJN9oO1E
+,268866.0,True,,"G-Eazy, Halsey",,Him & I (with Halsey),19,,2017-12-15,g-eazy him & i,spotify:track:5k38wzpLb15YgncyWdTZE4
+,245386.0,True,,"G-Eazy, A$AP Rocky, Cardi B",,No Limit,28,,2017-09-07,g-eazy no limit,spotify:track:2Xqd0wUttjueBfdcltADOv
+,222466.0,True,,"G-Eazy, Marc E. Bassy",,Some Kind Of Drug,3,,2015-12-04,g-eazy some kind of drug,spotify:track:1Bqxj0aH5KewYHKUg1IdrF
+,250293.0,True,,G-Eazy,,The Plan,1,,2017-12-15,g-eazy the plan,spotify:track:7fOPVfABNLg3sxtgXBhBdp
+,211570.0,False,,The Karaoke Studio,,Ask Me How I Know (In the Style of Garth Brooks) [Karaoke Vesion],7,,2017-12-17,garth brooks ask me how i know,spotify:track:55YVVetvm37z3oTHrdD5dV
+,176702.0,True,,"GoldLink, Brent Faiyaz, Shy Glizzy",,Crew (feat. Brent Faiyaz & Shy Glizzy),21,,2017-03-24,goldlink crew,spotify:track:15EPc80XuFrb2LmOzGjuRg
+,197933.0,False,,"Gorillaz, George Benson",,Humility (feat. George Benson),1,,2018-06-29,gorillaz humility,spotify:track:3NeiYiBn3rQBgurfVk92Zm
+,170093.0,False,,Granger Smith,,If the Boot Fits,1,,2016-03-04,granger smith if the boot fits,spotify:track:1LZNdHSaGjV2S9q8BrZwnh
+,190311.0,True,,"Gucci Mane, Drake",,Both (feat. Drake),16,,2016-12-16,gucci mane both,spotify:track:5tFep7dXGd7vEJ668wTPux
+,161989.0,True,,"Gucci Mane, The Weeknd",,Curve (feat. The Weeknd),3,,2017-10-13,gucci mane curve,spotify:track:2yuyaYAELoMG4ApV5wJsWR
+,233087.0,True,,"Gucci Mane, Migos",,I Get The Bag (feat. Migos),26,,2017-10-13,gucci mane i get the bag,spotify:track:1XRgIKC5TPwo7nWGyKqgG0
+,300160.0,True,,"Gucci Mane, Nicki Minaj",,Make Love,1,,2017-10-13,gucci mane make love,spotify:track:2jIT1TfSIjVik7Qu1B6P5h
+,209142.0,True,,"Gucci Mane, Offset",,Met Gala (feat. Offset),2,,2017-05-26,gucci mane met gala,spotify:track:2XaInsPPUkZRkY4uFJ3AHK
+,316053.0,True,,"Gucci Mane, Slim Jxmmi, Young Dolph",,Stunting Ain't Nuthin (feat. Slim Jxmmi & Young Dolph),1,,2017-10-13,gucci mane stunting ain't nuthin,spotify:track:17DjWsC0G9YQtAiepG3c5v
+,200133.0,False,,H.E.R.,,Focus,1,,2017-10-20,h.e.r. focus,spotify:track:3tZs3nVjySLbL320lP4mvs
+,174800.0,False,,"Hailee Steinfeld, Alesso, Florida Georgia Line, watt",,"Let Me Go (with Alesso, Florida Georgia Line & watt)",21,,2017-09-08,hailee steinfeld let me go,spotify:track:5Gu0PDLN4YJeW75PpBSg9p
+,204400.0,False,,Hailee Steinfeld,,Most Girls,16,,2017-04-28,hailee steinfeld most girls,spotify:track:10GJQkjRJcZhGTLagFOC62
+,181880.0,False,,"Hailee Steinfeld, Grey, Zedd",,Starving,3,,2016-07-22,hailee steinfeld starving,spotify:track:4Ce37cRWvM1vIGGynKcs22
+,205660.0,False,,Halsey,,Alone,12,,2017-06-02,halsey alone,spotify:track:2Te14aSrBgFj1CE2sBBVMX
+,181279.0,False,,Halsey,,Bad At Love,32,,2017-06-02,halsey bad at love,spotify:track:7y9iMe8SOB6z3NoHE2OfXl
+,214801.0,False,,Halsey,,Now Or Never,20,,2017-06-02,halsey now or never,spotify:track:7i2DJ88J7jQ8K7zqFX2fW8
+,221205.0,False,,"Halsey, Lauren Jauregui",,Strangers,1,,2017-06-02,halsey strangers,spotify:track:11EDhDAVDtGPoSar6ootYA
+,340706.0,False,,Harry Styles,,Sign of the Times,13,,2017-05-12,harry styles sign of the times,spotify:track:5Ohxk2dO5COHF1krpoPigN
+,224866.0,False,,Harry Styles,,Sweet Creature,1,,2017-05-12,harry styles sweet creature,spotify:track:5kRPPEWFJIMox5qIkQkiz5
+,213694.0,True,,Hey Violet,,Guys My Age,4,,2017-06-16,hey violet guys my age,spotify:track:0Xm8tw6qikotb8FAOZ2ks7
+,180301.0,False,,High Valley,,She's With Me,8,,2016-11-18,high valley she's with me,spotify:track:2p2cCrOaNrIOLk5ArtlHy6
+,302146.0,False,,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble",,The Greatest Show,4,,2017-12-08,"hugh jackman, keala settle, zac efron, zendaya the greatest show",spotify:track:4ylWMuGbMXNDgDd8lErEle
+,204346.0,False,,Imagine Dragons,,Believer,51,,2017-06-23,imagine dragons believer,spotify:track:0pqnGHJpmpxLKifKRmU6WP
+,187146.0,False,,Imagine Dragons,,Thunder,51,,2017-06-23,imagine dragons thunder,spotify:track:1zB4vmk8tFRmM9UULNzbLB
+,201240.0,False,,Imagine Dragons,,Whatever It Takes,23,,2017-06-23,imagine dragons whatever it takes,spotify:track:6Qn5zhYkTa37e91HC1D7lb
+,189440.0,False,,"J Balvin, Willy William",,Mi Gente,29,,2017-06-30,j balvin mi gente,spotify:track:4ipnJyDU3Lq15qBAYNqlqK
+,190176.0,True,,J. Cole,,1985 - Intro to “The Fall Off”,2,,2018-04-20,j. cole 1985 (intro to the fall off),spotify:track:7EulRO07ZgchxqKUHb8Pvc
+,216726.0,True,,J. Cole,,ATM,5,,2018-04-20,j. cole atm,spotify:track:2UciqgwVDwro0fev3MFbxJ
+,315771.0,True,,J. Cole,,BRACKETS,1,,2018-04-20,j. cole brackets,spotify:track:5sWbwccBcyHsg5LEKWGZo9
+,264746.0,True,,J. Cole,,Deja Vu,13,,2016-12-09,j. cole deja vu,spotify:track:6I6NX6tjGsxFAsIfGzY9lJ
+,257646.0,True,,"J. Cole, kiLL edward",,FRIENDS (feat. kiLL edward),1,,2018-04-20,j. cole friends,spotify:track:6onwlDmIVKE8bBgyBRSuS0
+,190176.0,True,,J. Cole,,1985 - Intro to “The Fall Off”,1,,2018-04-20,j. cole intro,spotify:track:7EulRO07ZgchxqKUHb8Pvc
+,191436.0,True,,J. Cole,,KOD,11,,2018-04-20,j. cole kod,spotify:track:7yotKA30dwTKNEGomV9ZsI
+,200309.0,True,,J. Cole,,Kevin’s Heart,5,,2018-04-20,j. cole kevin's heart,spotify:track:6tZ3b7ik1QDXFAZlXib0YZ
+,133921.0,True,,J. Cole,,Motiv8,2,,2018-04-20,j. cole motiv8,spotify:track:1AT4xjNarTswd0UZ5FlmKF
+,197821.0,True,,J. Cole,,Once an Addict - Interlude,1,,2018-04-20,j. cole once an addict (interlude),spotify:track:0Px86mRlxdB3YqpK6KXWlr
+,218953.0,True,,J. Cole,,Photograph,2,,2018-04-20,j. cole photograph,spotify:track:0bhnUFDQFCEHCBlsQfHnj5
+,237295.0,True,,"J. Cole, kiLL edward",,The Cut Off (feat. kiLL edward),1,,2018-04-20,j. cole the cut off,spotify:track:3rFF7kSm5qBOOPs6ljFgPp
+,286729.0,True,,J. Cole,,Window Pain - Outro,1,,2018-04-20,j. cole window pain (outro),spotify:track:5Lgqu1th1KqlG97OF2gWGe
+,298012.0,False,,Karaoke Station,,4:44 (Karaoke Version) (Originally Performed by JAY-Z),2,,2017-08-16,jay-z 4:44,spotify:track:1g2rFNzFQO2kj7SuDRCAvf
+,119067.0,False,,DailyHeatChecc,,Jay Z Bam (Instrumental),1,,2018-01-26,jay-z bam,spotify:track:1V6CqDyFSx6iMbvqi09xO3
+,278800.0,True,,"Kendrick Lamar, JAY Z",,"Bitch, Don’t Kill My Vibe - Remix",1,,2012,jay-z kill jay z,spotify:track:7ALEBJ8LOQqXVJ2tqnXtoH
+,237134.0,False,,Karaoke Station,,The Story of O.J. (Karaoke Version) (Originally Performed by Jay-Z),3,,2017-08-02,jay-z the story of o.j.,spotify:track:016wHHFlmCssVY2bOkS0ev
+,236146.0,True,,Jacquees,,B.E.D.,13,,2018-09-07,jacquees b.e.d.,spotify:track:1B6TmCvKjC4dopBohVW51x
+,188013.0,False,,Jake Owen,,I Was Jack (You Were Diane),6,,2019-03-29,jake owen i was jack (you were diane),spotify:track:3dlCF1mzW1UKMOb4b1XN17
+,217678.0,True,,"Jake Paul, Team 10",,It's Everyday Bro,2,,2017-05-30,jake paul it's everyday bro,spotify:track:4l62h4tiuUwn7eD6hxMlVQ
+,248006.0,False,,2017 Canz Duo,,Jerika (Tribute to Jake Paul),1,,2017-07-24,jake paul jerika,spotify:track:6ZxjRoKGEOQAx27GfMKJIs
+,211466.0,False,,James Arthur,,Say You Won't Let Go,38,,2016-10-28,james arthur say you won't let go,spotify:track:5uCax9HTNlzGybIStD3vDh
+,194230.0,True,,Janelle Monáe,,Make Me Feel,1,,2018-04-27,janelle monae make me feel,spotify:track:5gW5dSy3vXJxgzma4rQuzH
+,203293.0,False,,Jason Aldean,,Any Ol' Barstool,17,,2016-09-09,jason aldean any ol' barstool,spotify:track:4T5Z4mbTe7kuGqgLpaRtTh
+,202066.0,False,,"Jason Aldean, Miranda Lambert",,Drowns The Whiskey (feat. Miranda Lambert),3,,2018-04-13,jason aldean drowns the whiskey,spotify:track:2dwoqUYTy6SOy1dFqcTndC
+,203293.0,False,,Jason Aldean,,Any Ol' Barstool,12,,2016-09-09,jason aldean they don't know,spotify:track:4T5Z4mbTe7kuGqgLpaRtTh
+,196800.0,False,,Jason Aldean,,You Make It Easy,20,,2018-01-26,jason aldean you make it easy,spotify:track:2ZxTjs4EdJl4Y9YByIiNoo
+,216408.0,True,,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",,Swalla (feat. Nicki Minaj & Ty Dolla $ign),20,,2017-02-23,jason derulo swalla,spotify:track:6kex4EBAj0WHXDKZMEJaaF
+,229670.0,True,,"Jay Rock, Kendrick Lamar, Future, James Blake",,"King's Dead (with Kendrick Lamar, Future & James Blake)",20,,2018-01-12,"jay rock, kendrick lamar, future king's dead",spotify:track:51rXHuKN8Loc4sUlKPODgH
+,213750.0,False,,"Jennifer Lopez, DJ Khaled, Cardi B",,Dinero,1,,2018-05-17,jennifer lopez dinero,spotify:track:22mQXNE0nCuWq4yOwcadIn
+,276960.0,True,,"Jhene Aiko, Swae Lee",,Sativa,16,,2017-09-22,jhene aiko sativa,spotify:track:2pg2TiYo9Rb8KeB5JjP7jS
+,210293.0,False,,John Legend,,Love Me Now,5,,2016-12-02,john legend love me now,spotify:track:6nxQdXa1uAL0rY72wPZu89
+,217603.0,True,,Jon Bellion,,All Time Low,6,,2016-06-10,jon bellion all time low,spotify:track:0SuLAslEMFZAXf0SwY7syi
+,201893.0,False,,Jon Pardi,,Dirt On My Boots,12,,2016-05-13,jon pardi dirt on my boots,spotify:track:7f08qp3HROTkfrtNpiYGGo
+,205200.0,False,,Jon Pardi,,Heartache On The Dance Floor,18,,2016-05-13,jon pardi heartache on the dance floor,spotify:track:0w3Q14i073jLoew1hgJkwD
+,182666.0,False,,Jordan Davis,,Singles You Up,19,,2018-03-23,jordan davis singles you up,spotify:track:4LiMQ6G9n84rDUBs9wtwz6
+,182066.0,False,,José Feliciano,,Feliz Navidad,1,,2002-09-24,jose feliciano feliz navidad,spotify:track:0oPdaY4dXtc3ZsaG17V972
+,215080.0,False,,Josh Turner,,Hometown Girl,16,,2017-03-10,josh turner hometown girl,spotify:track:5C6uh95eAL0RBTSGXKQwvk
+,219733.0,True,,"Joyner Lucas, Chris Brown",,Stranger Things,1,,2018-02-25,joyner lucas stranger things,spotify:track:34I0nBvoE0ZXmqbKiJ5BWS
+,165819.0,True,,Juice WRLD,,All Girls Are The Same,8,,2018-12-10,juice wrld all girls are the same,spotify:track:4VXIryQMWpIdGgYR4TrjT1
+,191840.0,True,,Juice WRLD,,Legends,1,,2018-06-22,juice wrld legends,spotify:track:1Knctxx9vGZxpZfF66BIEa
+,239835.0,True,,Juice WRLD,,Lucid Dreams,8,,2018-12-10,juice wrld lucid dreams,spotify:track:285pBltuF7vW8TeWk8hdRR
+,176320.0,False,,Julia Michaels,,Issues,28,,2017-07-28,julia michaels issues,spotify:track:7vu0JkJh0ldukEYbTVcqd0
+,189466.0,False,,"Justin Bieber, BloodPop®",,Friends (with BloodPop®),10,,2017-08-17,justin bieber + bloodpop friends,spotify:track:7iNIg7XDEaYECfWD5dJ9Va
+,165173.0,False,,Justin Moore,,Somebody Else Will,13,,2016-01-01,justin moore somebody else will,spotify:track:3n2A6l4UayVe3GGKCvfQWV
+,237546.0,False,,Justin Timberlake,,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",14,,2016-09-23,justin timberlake can't stop the feeling!,spotify:track:1WkMMavIMc4JZ8cfMmxHkI
+,293946.0,False,,Justin Timberlake,,Filthy,6,,2018-01-05,justin timberlake filthy,spotify:track:1L3NV7VrCiuE8C5QlhdeQL
+,278893.0,False,,"Justin Timberlake, Chris Stapleton",,Say Something,1,,2018-02-02,justin timberlake man of the woods,spotify:track:1LhMopPAallLeaeNutqbgS
+,278893.0,False,,"Justin Timberlake, Chris Stapleton",,Say Something,16,,2018-01-25,justin timberlake say something,spotify:track:09ts3GnICqYEU5PkQCpJK3
+,225600.0,False,,Justin Timberlake,,Supplies,2,,2018-02-02,justin timberlake supplies,spotify:track:6jT85s2dZ55HBqjXYi2rfI
+,153351.0,True,,"KIDS SEE GHOSTS, Louis Prima",,4th Dimension,1,,2018-06-08,kids see ghosts 4th dimension,spotify:track:6JyEh4kl9DLwmSAoNDRn5b
+,197000.0,True,,KIDS SEE GHOSTS,,Cudi Montage,1,,2018-06-08,kids see ghosts cudi montage,spotify:track:4kUZvXB3LC3an3HX6h0s17
+,165053.0,True,,"KIDS SEE GHOSTS, Pusha T",,Feel The Love,1,,2018-06-08,kids see ghosts feel the love,spotify:track:3aUFrxO1B8EW63QchEl3wX
+,140526.0,True,,KIDS SEE GHOSTS,,Fire,1,,2018-06-08,kids see ghosts fire,spotify:track:7oHkit3F3vimtsBbnZkU0G
+,206605.0,True,,"KIDS SEE GHOSTS, Ty Dolla $ign",,Freeee (Ghost Town Pt. 2),1,,2018-06-08,"kids see ghosts freeee (ghost town, pt. 2)",spotify:track:7GRTrWsP3yo2Fx8umJfA1X
+,324674.0,True,,KIDS SEE GHOSTS,,Reborn,1,,2018-06-08,kids see ghosts kids see ghosts,spotify:track:4RVbK6cV0VqWdpCDcx3hiT
+,324674.0,True,,KIDS SEE GHOSTS,,Reborn,2,,2018-06-08,kids see ghosts reborn,spotify:track:4RVbK6cV0VqWdpCDcx3hiT
+,253106.0,True,,"KYLE, Lil Yachty",,iSpy (feat. Lil Yachty),25,,2016-12-02,kyle ispy,spotify:track:2EEeOnHehOozLq4aS0n6SL
+,213706.0,False,,KALEO,,Way Down We Go,3,,2016-06-10,kaleo way down we go,spotify:track:0y1QJc3SJVPKJ1OvFmFqe6
+,191733.0,False,,Kane Brown,,Found You,1,,2017-10-06,kane brown found you,spotify:track:4iLeL1aYGcQBsYcWIhXIUO
+,179506.0,False,,Kane Brown,,Heaven,27,,2017-10-06,kane brown heaven,spotify:track:1HXy5I3HTWq8OvxCn0z7G7
+,178986.0,False,,Kane Brown,,Lose It,1,,2018-11-09,kane brown lose it,spotify:track:5tFgCPC2Hdw4qu9b7RkWhR
+,188253.0,False,,"Kane Brown, Lauren Alaina",,What Ifs,23,,2016-12-02,kane brown what ifs,spotify:track:7zVCrzzEJU7u24sbJPXA5W
+,145506.0,True,,Kanye West,,All Mine,5,,2018-06-01,kanye west all mine,spotify:track:3U21A07gAloCc4P7J8rxcn
+,271386.0,True,,"Kanye West, PARTYNEXTDOOR",,Ghost Town,2,,2018-06-01,kanye west ghost town,spotify:track:7vgTNTaEz3CsBZ1N4YQalM
+,274186.0,True,,Kanye West,,I Thought About Killing You,1,,2018-06-01,kanye west i thought about killing you,spotify:track:0yhxBvedRdGxsPZHJNI4VA
+,123040.0,True,,Kanye West,,No Mistakes,1,,2018-06-01,kanye west no mistakes,spotify:track:35KV2Nuib6jPMVN00O8iba
+,215320.0,True,,Kanye West,,Violent Crimes,2,,2018-06-01,kanye west violent crimes,spotify:track:3s7MCdXyWmwjdcWh7GWXas
+,205546.0,True,,"Kanye West, PARTYNEXTDOOR",,Wouldn't Leave,2,,2018-06-01,kanye west wouldn't leave,spotify:track:1nGoy0cEj0extAwXYNYTWd
+,202641.0,True,,Kanye West,,Ye vs. the People (starring TI as the People),1,,2018-04-28,kanye west ye vs the people,spotify:track:69b0SDYOymaqYwm3la237H
+,188773.0,True,,Kanye West,,Yikes,5,,2018-06-01,kanye west yikes,spotify:track:1qsHYUd2c1wFGcn7e63QmG
+,227813.0,False,,"Katy Perry, Migos",,Bon appétit,6,,2017-06-09,katy perry bon appetit,spotify:track:4rHmKlFRiFzabiVO6e9w2e
+,237733.0,False,,"Katy Perry, Skip Marley",,Chained To The Rhythm,15,,2017-06-09,katy perry chained to the rhythm,spotify:track:7qvxFz3JodM0A7xEM7k3YD
+,242520.0,True,,"Katy Perry, Nicki Minaj",,Swish Swish,10,,2017-06-09,katy perry swish swish,spotify:track:3OtMnyUaiipcAT23A8liyi
+,234706.0,False,,"Keala Settle, The Greatest Showman Ensemble",,This Is Me,14,,2017-12-08,keala settle this is me,spotify:track:45aBsnKRWUzhwbcqOJLwfe
+,230600.0,False,,Keith Urban,,Blue Ain't Your Color,1,,2016-05-06,keith urban blue ain't your color,spotify:track:6wycnu8FWXsj68ig7BEot9
+,213938.0,False,,"Keith Urban, Julia Michaels",,Coming Home,2,,2018-04-27,keith urban coming home,spotify:track:4pWb8UZ6IPVJA3CPjCNgzq
+,195316.0,False,,Keith Urban,,Female,6,,2018-04-27,keith urban female,spotify:track:1t34UsQ634a233qysq6D6L
+,184040.0,False,,"Keith Urban, Carrie Underwood",,The Fighter,22,,2016-05-06,keith urban the fighter,spotify:track:5OUSPcqhYTOzpbXzoEvKim
+,172426.0,False,,Kelly Clarkson,,Love So Soft,13,,2017-10-27,kelly clarkson love so soft,spotify:track:16QN8cBubEq706vNtPpOME
+,244466.0,False,,Kelsea Ballerini,,Legends,11,,2018-10-26,kelsea ballerini legends,spotify:track:6vlxmQGwmlyp07YjkugV6K
+,194413.0,False,,Kelsea Ballerini,,Yeah Boy,13,,2015-05-18,kelsea ballerini yeah boy,spotify:track:2WaOQWSv0D1tZNxyLvnGAI
+,232186.0,True,,"Kendrick Lamar, SZA",,All The Stars (with SZA),21,,2018-02-09,kendrick lamar all the stars,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s
+,221826.0,True,,"Kendrick Lamar, Travis Scott",,Big Shot (with Travis Scott),2,,2018-02-09,kendrick lamar big shot,spotify:track:5cXg9IQS34FzLVdHhp7hu7
+,211440.0,True,,"The Weeknd, Kendrick Lamar",,Pray For Me (with Kendrick Lamar),1,,2018-02-09,kendrick lamar black panther,spotify:track:77UjLW8j5UAGAGVGhR5oUK
+,118066.0,True,,Kendrick Lamar,,BLOOD.,1,,2017-04-14,kendrick lamar blood.,spotify:track:1n4jwRVXdkK2U34nBDUKKT
+,185946.0,True,,Kendrick Lamar,,DNA.,20,,2017-04-14,kendrick lamar dna.,spotify:track:6HZILIRieu8S0iqY8kIKhj
+,248613.0,True,,Kendrick Lamar,,DUCKWORTH.,1,,2017-04-14,kendrick lamar duckworth.,spotify:track:0y9uTzK9cNKSAEHnpeRG8C
+,208733.0,True,,Kendrick Lamar,,ELEMENT.,11,,2017-04-14,kendrick lamar element.,spotify:track:1EaKU4dMbesXXd3BrLCtYG
+,460573.0,True,,Kendrick Lamar,,FEAR.,2,,2017-04-14,kendrick lamar fear.,spotify:track:23luOrEVHMfoX0AhfbQuS6
+,214826.0,True,,Kendrick Lamar,,FEEL.,2,,2017-04-14,kendrick lamar feel.,spotify:track:2LTlO3NuNVN70lp2ZbVswF
+,248826.0,True,,Kendrick Lamar,,GOD.,2,,2017-04-14,kendrick lamar god.,spotify:track:5p3NP9mQblDsVJLdfNZJ3I
+,177000.0,True,,Kendrick Lamar,,HUMBLE.,37,,2017-04-14,kendrick lamar humble.,spotify:track:7KXjTSCq5nL1LoYtL7XAwS
+,213400.0,True,,"Kendrick Lamar, Zacari",,LOVE. FEAT. ZACARI.,39,,2017-04-14,kendrick lamar love.,spotify:track:6PGoSes0D9eUDeeAafB2As
+,227360.0,True,,"Kendrick Lamar, Rihanna",,LOYALTY. FEAT. RIHANNA.,26,,2017-04-14,kendrick lamar loyalty.,spotify:track:6SwRhMLwNqEi6alNPVG00n
+,307880.0,True,,Kendrick Lamar,,LUST.,2,,2017-04-14,kendrick lamar lust.,spotify:track:06FCvd7rrRcF3DdvWH5Isp
+,275253.0,True,,Kendrick Lamar,,PRIDE.,2,,2017-04-14,kendrick lamar pride.,spotify:track:6IZvVAP7VPPnsGX6bvgkqg
+,289869.0,False,,Karaoke Pro,,The Heart Part 4 (Originally Performed by Kendrick Lamar) - Instrumental Version,2,,2017-04-12,kendrick lamar the heart part 4,spotify:track:3VZf7aAduaJnQjqTIinfCv
+,254200.0,True,,"Kendrick Lamar, U2",,XXX. FEAT. U2.,3,,2017-04-14,kendrick lamar xxx.,spotify:track:4iYRa2btalAzPZoSYfROqF
+,160293.0,True,,Kendrick Lamar,,YAH.,3,,2017-04-14,kendrick lamar yah.,spotify:track:4BHSjbYylfOH5WAGusDyni
+,212893.0,False,,Kenny Chesney,,All the Pretty Girls,14,,2017-04-28,kenny chesney all the pretty girls,spotify:track:66pxmg3Jhjm09tHoWR1wVR
+,207306.0,False,,Kenny Chesney,,Bar at the End of the World,1,,2017-04-28,kenny chesney bar at the end of the world,spotify:track:2flWhcGYxQHhb1EeeU2dOL
+,199625.0,False,,Kenny Chesney,,Get Along,13,,2018-07-27,kenny chesney get along,spotify:track:6n6OQfBpCgzF9oEg8zhBN7
+,217546.0,False,,Kesha,,Learn To Let Go,1,,2017-08-11,kesha learn to let go,spotify:track:1g1TeDflB6atAy7HKwrzXu
+,230266.0,False,,Kesha,,Praying,21,,2017-08-11,kesha praying,spotify:track:0jdny0dhgjUwoIp5GkqEaA
+,196360.0,True,,"Kesha, The Dap-Kings Horns",,Woman,1,,2017-08-11,kesha woman,spotify:track:1kJtfldK9F7XmsSiSNlbth
+,205861.0,True,,Kevin Gates,,Change Lanes,1,,2018-05-16,kevin gates change lanes,spotify:track:59XHPyb0MTMElZpkG0Wp69
+,195455.0,True,,Kevin Gates,,Let It Sing,1,,2018-05-16,kevin gates let it sing,spotify:track:090R9OdFMbQQksvwuXmNEY
+,219080.0,False,,Khalid,,Location,40,,2017-04-27,khalid location,spotify:track:152lZdxL1OR0ZMW6KquMif
+,201707.0,False,,"Khalid, Normani",,Love Lies (with Normani),20,,2018-02-14,khalid love lies,spotify:track:45Egmo7icyopuzJN0oMEdk
+,238893.0,True,,"Khalid, Swae Lee",,The Ways (with Swae Lee),3,,2018-02-09,khalid the ways,spotify:track:5jyyPsIGM2yqkZN9R3TmvN
+,202546.0,False,,Khalid,,Young Dumb & Broke,35,,2017-04-27,khalid young dumb & broke,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY
+,263013.0,True,,"Khalid, 6LACK, Ty Dolla $ign",,OTW,10,,2018-04-20,"khalid, ty dolla $ign otw",spotify:track:6Hgh47WXVKtXN5zGOu0hjI
+,154706.0,False,,Kip Moore,,More Girls Like You,12,,2017-09-08,kip moore more girls like you,spotify:track:73WWkaWkIRSP3MYGZ14aY4
+,264531.0,True,,"Kodak Black, Lil Wayne",,Codeine Dreaming (feat. Lil Wayne),13,,2017-11-24,kodak black codeine dreaming,spotify:track:4DTpngLjoHj5gFxEZFeD3J
+,219753.0,True,,"Kodak Black, Future",,Conscience (feat. Future),1,,2017-03-31,kodak black conscience,spotify:track:16dXg2YuFOxwDC3cTf5jde
+,186592.0,True,,Kodak Black,,Everything 1k,1,,2016-06-10,kodak black everything 1k,spotify:track:78AucGxdmVa4Bx6HwDPOS4
+,180000.0,True,,Kodak Black,,First Day Out,1,,2017-06-16,kodak black first day out,spotify:track:7AAnFzBtOlgoYceCQoLRUR
+,198109.0,True,,Kodak Black,,Patty Cake,3,,2017-03-31,kodak black patty cake,spotify:track:0bXFIF7iL17TYLyx8JHziM
+,213132.0,True,,"Kodak Black, XXXTENTACION",,Roll In Peace (feat. XXXTENTACION),25,,2017-08-18,kodak black roll in peace,spotify:track:40oKW22ZNNkEdZLJTScaQI
+,169344.0,True,,Kodak Black,,Transportin',16,,2017-08-18,kodak black transportin',spotify:track:1WIZiOuNO3woKfdlSK2gNn
+,268186.0,True,,Kodak Black,,Tunnel Vision,20,,2017-03-31,kodak black tunnel vision,spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4
+,228661.0,False,,Kris Wu,,Like That,1,,2018-05-18,kris wu like that,spotify:track:4caEPudXQ1xDd1garjHPFv
+,193320.0,False,,"Kygo, Imagine Dragons",,Born To Be Yours,2,,2018-06-15,kygo born to be yours,spotify:track:0WVAQaxrT0wsGEG4BCVSn2
+,193511.0,False,,"Kygo, Ellie Goulding",,First Time,1,,2017-04-28,kygo first time,spotify:track:2Gl0FzuLxflY6nPifJp5Dr
+,222573.0,False,,LANCO,,Greatest Love Story,20,,2018-01-19,lanco greatest love story,spotify:track:2yQZwi1P8AkkxxFhQ8rMEK
+,181000.0,False,,Lady Antebellum,,You Look Good,20,,2017-06-09,lady antebellum you look good,spotify:track:1dFLowBW25EaL2OC7eKEa2
+,294573.0,True,,Lady Gaga,,Bad Romance,1,,2009,lady gaga bad romance,spotify:track:5P5cGNzqh6A353N3ShDK6Y
+,205280.0,False,,Lady Gaga,,Million Reasons,9,,2016-10-21,lady gaga million reasons,spotify:track:7dZ1Odmx9jWIweQSatnRqo
+,211363.0,False,,Lady Gaga,,The Cure,14,,2017-04-16,lady gaga the cure,spotify:track:34oB5r0lcN3fYWCs2uA1k5
+,272742.0,False,,Lana Del Rey,,Love,2,,2017-07-21,lana del rey love,spotify:track:2Kerz9H9IejzeIpjhDJoYG
+,272742.0,False,,Lana Del Rey,,Love,1,,2017-07-21,lana del rey lust for life,spotify:track:2Kerz9H9IejzeIpjhDJoYG
+,216266.0,False,,Lauren Alaina,,Road Less Traveled,11,,2017-01-27,lauren alaina road less traveled,spotify:track:4nxgA1nvXvTkmsBY0vJV57
+,187823.0,False,,Lauren Duski,,Deja Vu - The Voice Performance,1,,2017-05-24,lauren duski deja vu,spotify:track:4xTNksNuXORn62bGXsGZXd
+,212757.0,False,,Lauren Duski,,Ghost In This House - The Voice Performance,1,,2017-05-24,lauren duski ghost in this house,spotify:track:6cl1vl6OU6RLr1C56wOn21
+,210732.0,False,,Lauren Duski,,The Dance - The Voice Performance,1,,2017-05-24,lauren duski the dance,spotify:track:1HQtmjBwA4257dxNTvG5Rt
+,197436.0,False,,Lauv,,I Like Me Better,21,,2017-05-19,lauv i like me better,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9
+,198973.0,False,,Lee Brice,,Boy,1,,2017-11-03,lee brice boy,spotify:track:7A8OfzqXBHYGk61FZTHoeo
+,188346.0,False,,Liam Payne,,Bedroom Floor,1,,2017-10-20,liam payne bedroom floor,spotify:track:1OG4nxGMy72EklX2DwcN3Z
+,244600.0,False,,"Liam Payne, Rita Ora",,For You (Fifty Shades Freed),3,,2018-11-23,liam payne for you (fifty shades freed),spotify:track:1YQPmgqj0dhqOcrkfuHHKj
+,204502.0,False,,"Liam Payne, Quavo",,Strip That Down,28,,2017-05-18,liam payne strip that down,spotify:track:4Ro98RCK90oHqqSZUnTFq5
+,247054.0,True,,"Lil Baby, Gunna, Lil Uzi Vert",,Life Goes On,6,,2018-05-18,lil baby life goes on,spotify:track:2bSk87AVkCIIC3Bcligq1z
+,317701.0,True,,"Quality Control, Lil Baby, Kodak Black, Quavo, Moneybagg Yo",,My Dawg,6,,2017-12-08,lil baby my dawg,spotify:track:49K3jbwZmZKaDGTfjpIVg0
+,173437.0,True,,Lil Baby,,Southside,1,,2018-05-18,lil baby southside,spotify:track:5lf3ajySox32qFvGEf2TFM
+,142273.0,True,,"Lil Baby, Drake",,Yes Indeed,8,,2018-05-18,lil baby yes indeed,spotify:track:6vN77lE9LK6HP2DewaN6HZ
+,216631.0,True,,"Lil Dicky, Chris Brown",,Freaky Friday (feat. Chris Brown),16,,2018-03-15,lil dicky freaky friday,spotify:track:10Igtw8bSDyyFs7KIsKngZ
+,214426.0,True,,"Lil Peep, Lil Tracy",,Awful Things,1,,2017-08-15,lil peep awful things,spotify:track:7Hr2XoaGpIMKbNXCZDZ3le
+,181714.0,True,,Lil Pump,,Esskeetit,12,,2018-04-13,lil pump esskeetit,spotify:track:44KKhCyI0BGS6LvVyDqJtH
+,124055.0,True,,Lil Pump,,Gucci Gang,23,,2017-10-06,lil pump gucci gang,spotify:track:43ZyHQITOjhciSUUNPVRHc
+,211200.0,True,,"Lil Skies, Yung Pinch",,I Know You (feat. Yung Pinch),3,,2018-05-31,lil skies i know you,spotify:track:5Cg98kiDYtCEHmjcKD0CJD
+,156000.0,True,,Lil Skies,,Lust,4,,2017-12-12,lil skies lust,spotify:track:7oJrVhiTPZGBXWPwhxjy9S
+,203907.0,True,,"Lil Skies, Landon Cube",,Nowadays (feat. Landon Cube),13,,2017-12-20,lil skies nowadays,spotify:track:689uBlyIufk2LUhAwjny4w
+,262544.0,True,,"Lil Skies, Landon Cube",,Red Roses (feat. Landon Cube),20,,2017-12-12,lil skies red roses,spotify:track:3ZhTT6yjZwpPph5MIJ53XY
+,247347.0,True,,Lil Uzi Vert,,444+222,3,,2017-08-25,lil uzi vert 444+222,spotify:track:1QgTBfRN5m81a5K01qens6
+,173419.0,True,,Lil Uzi Vert,,Dark Queen,2,,2017-08-25,lil uzi vert dark queen,spotify:track:2ZdCrBA52bb4pIG3tOOZiQ
+,177048.0,True,,Lil Uzi Vert,,For Real,1,,2017-08-25,lil uzi vert for real,spotify:track:3tcoEYOZUHKB3RKNByIN13
+,258789.0,True,,"Lil Uzi Vert, Pharrell Williams",,Neon Guts (feat. Pharrell Williams),2,,2017-08-25,lil uzi vert neon guts,spotify:track:1MJErNPIQUoEMu4YUUmecm
+,189229.0,True,,Lil Uzi Vert,,No Sleep Leak,1,,2017-08-25,lil uzi vert no sleep leak,spotify:track:0QV16pno66L6K3fn4W13b7
+,207038.0,True,,Lil Uzi Vert,,Sauce It Up,15,,2017-08-25,lil uzi vert sauce it up,spotify:track:1uL78kFWxhz3umTMWJu8n5
+,221746.0,True,,"Lil Uzi Vert, Oh Wonder",,The Way Life Goes (feat. Oh Wonder),22,,2017-08-25,lil uzi vert the way life goes,spotify:track:2eAZfqOm4EnOF9VvN50Tyc
+,182706.0,True,,Lil Uzi Vert,,XO TOUR Llif3,1,,2017-08-25,lil uzi vert two,spotify:track:7GX5flRQZVHRAGd6B4TmDO
+,190355.0,True,,"Lil Uzi Vert, The Weeknd",,UnFazed (feat. The Weeknd),1,,2017-08-25,lil uzi vert unfazed,spotify:track:5O8x1YlmLQopQHErxtDfi9
+,173797.0,True,,Lil Uzi Vert,,X,2,,2017-08-25,lil uzi vert x,spotify:track:5tRmoZRoupvMYPV1oezFrH
+,182706.0,True,,Lil Uzi Vert,,XO TOUR Llif3,34,,2017-08-25,lil uzi vert xo tour llif3,spotify:track:7GX5flRQZVHRAGd6B4TmDO
+,187173.0,True,,Lil Xan,,Betrayed,19,,2018-04-06,lil xan betrayed,spotify:track:4vaxvNDaLSoD36iZX515ug
+,153474.0,True,,"Lil Yachty, Trippie Redd",,66,1,,2018-03-09,lil yachty 66,spotify:track:6tarvNiKnEjYMj1VZhlDqR
+,229525.0,True,,"Lil Yachty, Ugly God",,BOOM!,1,,2018-03-09,lil yachty boom!,spotify:track:2PsZsnqSMXt4oKi0xHVvgF
+,139845.0,True,,"Lil Yachty, YoungBoy Never Broke Again",,NBAYOUNGBOAT,4,,2018-03-09,lil yachty nbayoungboat,spotify:track:6K2anECyrckidwf5wxS78Q
+,247612.0,True,,"Lil Yachty, Migos",,Peek A Boo,4,,2017-04-13,lil yachty peek a boo,spotify:track:1iTWoKAdilGEmit6xhQZje
+,200457.0,False,,"Lin-Manuel Miranda, Alex Lacamoire, Ana Villafañe, Anthony Ramos, Camila Cabello, Dessa, Ednita Nazario, Fat Joe, Gilberto Santa Rosa, Gina Rodriguez, Gloria Estefan, Jennifer Lopez, Joell Ortiz, John Leguizamo, Juan Luis Guerra 4.40, Luis Fonsi, Marc Anthony, Pj Sin Suela, Pedro Capó, Rita Moreno, Rubén Blades, Tommy Torres",,Almost Like Praying (feat. Artists for Puerto Rico),1,,2017-10-06,lin-manuel miranda almost like praying,spotify:track:3dskm5fAe8OkBtM9E0VVWx
+,179242.0,False,,"Ben Platt, Lin-Manuel Miranda",,Found/Tonight,1,,2018-03-19,lin-manuel miranda found / tonight,spotify:track:0ileL1L3Vtpf5VZ5RQZ94m
+,169800.0,True,,"Linkin Park, Kiiara",,Heavy (feat. Kiiara),19,,2017-05-19,linkin park heavy,spotify:track:104buTcnP2AsxqB7U1FIZ4
+,216933.0,False,,Linkin Park,,In The End,1,,2000-10-24,linkin park in the end,spotify:track:60a0Rd6pjrkxjPbaKzXjfq
+,185586.0,False,,Linkin Park,,Numb,1,,2003-03-24,linkin park numb,spotify:track:2nLtzopw4rPReszdYBJU6h
+,260933.0,False,,Little Big Town,,Better Man,7,,2016-10-20,little big town better man,spotify:track:0jMikeoKkkSOby4ofddqYs
+,250173.0,True,,"Logic, Alessia Cara, Khalid",,1-800-273-8255,41,,2017-05-05,logic 1-800-273-8255,spotify:track:5tz69p7tJuGPeMGwNTxYuV
+,188600.0,True,,Logic,,44 More,5,,2018-03-09,logic 44 more,spotify:track:3e7Y6sfFlIdBMJhX7wpqVO
+,331266.0,True,,"Logic, Damian Lemar Hudson",,Black SpiderMan,1,,2017-05-05,logic black spiderman,spotify:track:7BKUWh5sdtdS17crohRe4L
+,221360.0,True,,Logic,,BoomTrap Protocol,1,,2018-03-09,logic boomtrap protocol,spotify:track:4fZxGiES1FKbNqJPrI4L3s
+,217146.0,True,,Logic,,Contra,1,,2018-03-09,logic contra,spotify:track:7u90MSvVyEjL0c8icaE7jl
+,250173.0,True,,"Logic, Alessia Cara, Khalid",,1-800-273-8255,2,,2017-05-05,logic everybody,spotify:track:5tz69p7tJuGPeMGwNTxYuV
+,204746.0,True,,"Logic, Marshmello",,Everyday,13,,2018-03-09,logic everyday,spotify:track:4EAV2cKiqKP5UPZmY6dejk
+,260320.0,True,,"Logic, Wiz Khalifa",,Indica Badu,1,,2018-03-09,logic indica badu,spotify:track:0jqBo5RYn008f4ZY8kPewW
+,241426.0,True,,Logic,,Midnight,1,,2018-03-09,logic midnight,spotify:track:1GtVGc1UYin3zpMUdNSSpM
+,217560.0,True,,Logic,,Overnight,1,,2018-03-09,logic overnight,spotify:track:3s3VVLE1kB7Xk2AoJKlGmr
+,240093.0,True,,"Logic, Young Sinatra",,Warm It Up,1,,2018-03-09,logic warm it up,spotify:track:3W4JFzOQdo5J2Wgt9DFg24
+,219480.0,True,,"Logic, Big Sean",,Wassup,1,,2018-03-09,logic wassup,spotify:track:5KVciTEfXvpcFHR3RFbtJy
+,173693.0,True,,Logic,,Yuck,1,,2018-03-09,logic yuck,spotify:track:0D5CXSUx8GOCHSY8KWgi9h
+,208226.0,False,,Lord Huron,,The Night We Met,4,,2015-04-07,lord huron the night we met,spotify:track:0QZ5yyl6B6utIWkxeBDxQN
+,234652.0,False,,Lorde,,Green Light,9,,2017-06-16,lorde green light,spotify:track:6ie2Bw3xLj2JcGowOlcMhb
+,214254.0,True,,"Lorde, Khalid, Post Malone, SZA",,Homemade Dynamite - REMIX,1,,2017-11-10,lorde homemade dynamite,spotify:track:5u64RlrnvvbtNh6R0EMh6o
+,171727.0,False,,Lorde,,Liability,1,,2017-06-16,lorde liability,spotify:track:6Kkt27YmFyIFrcX3QXFi2o
+,207786.0,False,,Loren Allred,,Never Enough,4,,2017-12-08,loren allred never enough,spotify:track:0Gl5s8IhMmQE5YQwM8Qx1J
+,190427.0,True,,"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",,Back to You (feat. Bebe Rexha & Digital Farm Animals),10,,2017-07-21,louis tomlinson back to you,spotify:track:7F9vK8hNFMml4GtHsaXui6
+,228826.0,False,,"Luis Fonsi, Daddy Yankee, Justin Bieber",,Despacito - Remix,49,,2017-04-17,luis fonsi despacito,spotify:track:6rPO02ozF3bM7NnOV4h6s2
+,173720.0,False,,"Luis Fonsi, Demi Lovato",,Échame La Culpa,19,,2017-11-17,luis fonsi echame la culpa,spotify:track:2hl6q70unbviGo3g1R7uFx
+,206213.0,False,,Luke Bryan,,Fast,12,,2015-08-07,luke bryan fast,spotify:track:2gYiCTytrSRtuaHP1Nac6u
+,177305.0,False,,Luke Bryan,,Light It Up,18,,2017-12-08,luke bryan light it up,spotify:track:5w3NgfV8v1nNZFLUBlGHIL
+,221800.0,False,,Luke Bryan,,Most People Are Good,18,,2017-12-08,luke bryan most people are good,spotify:track:79LAFAkR1ATb4iIQvZuCL0
+,216093.0,False,,Luke Bryan,,"Sunrise, Sunburn, Sunset",1,,2017-12-08,"luke bryan sunrise, sunburn, sunset",spotify:track:53yTYusPQJ1AApL1hi0Dnc
+,193200.0,False,,Luke Combs,,Beautiful Crazy,4,,2018-06-01,luke combs beautiful crazy,spotify:track:2rxQMGVafnNaRaXlRMWPde
+,222533.0,False,,Luke Combs,,Hurricane,22,,2017-06-02,luke combs hurricane,spotify:track:6xHI9KjUjYT0FPtGO8Mxa1
+,198880.0,False,,Luke Combs,,Must've Never Met You,1,,2018-06-01,luke combs must've never met you,spotify:track:6ojicjDYUUoeE1tdSvfFo4
+,221800.0,False,,Luke Combs,,One Number Away,16,,2017-06-02,luke combs one number away,spotify:track:4gB7HrYHbJVJ5RFOjxmoq4
+,240760.0,False,,Luke Combs,,When It Rains It Pours,20,,2017-06-02,luke combs when it rains it pours,spotify:track:1mMLMZYXkMueg65jRRWG1l
+,223846.0,False,,MAX,,Lights Down Low,27,,2016-04-08,max lights down low,spotify:track:5A6BJLZArq1MPjsnmcuk5f
+,199973.0,False,,"Machine Gun Kelly, Hailee Steinfeld",,At My Best (feat. Hailee Steinfeld),8,,2017-05-12,machine gun kelly at my best,spotify:track:77lGafvlU68CeHgB2pkHC9
+,243597.0,False,,Jason Gordon,,Bad Things - (Machine Gun Kelly x Camila Cabello x Cover Version),10,,2017-01-25,machine gun kelly x camila cabello bad things,spotify:track:3XjqLgDutxuGWZlZU1yisE
+,202804.0,False,,"Machine Gun Kelly, X Ambassadors, Bebe Rexha",,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",4,,2017-11-18,"machine gun kelly, x ambassadors home",spotify:track:0OI7AFifLSoGzpb8bdBLLV
+,220454.0,True,,"Macklemore, Skylar Grey",,Glorious (feat. Skylar Grey),19,,2017-09-22,macklemore glorious,spotify:track:0CokSRCu5hZgPxcZBaEzVE
+,240506.0,False,,"Macklemore, Kesha",,Good Old Days (feat. Kesha),19,,2017-09-22,macklemore good old days,spotify:track:2Za1AlJNvksouPPWbXpR2X
+,225849.0,False,,"Major Lazer, Travis Scott, Camila Cabello, Quavo",,Know No Better,3,,2017-06-01,major lazer know no better,spotify:track:6BKeNWeUqxmvQ09Gxd3ZGX
+,203180.0,True,,"Major Lazer, PARTYNEXTDOOR, Nicki Minaj",,Run Up,1,,2017-01-26,major lazer run up,spotify:track:0SujigeT7cxuxBfhN3eOcp
+,230000.0,False,,Maluma,,Felices los 4,20,,2018-05-18,maluma felices los 4,spotify:track:1RouRzlg8OKFeqc6LvdxmB
+,211767.0,False,,Maren Morris,,80s Mercedes,2,,2017-03-17,maren morris 80s mercedes,spotify:track:58spuRyMUsjKHQHEGwLC99
+,220387.0,False,,"Maren Morris, Vince Gill",,Dear Hate,1,,2017-10-03,maren morris dear hate,spotify:track:7zOoHxDt1duHL8czY7o7ab
+,196421.0,False,,Maren Morris,,I Could Use a Love Song,20,,2017-03-17,maren morris i could use a love song,spotify:track:09iyGiljLWRYXdRazFkdtJ
+,241106.0,False,,Mariah Carey,,All I Want for Christmas Is You,4,,1994,mariah carey all i want for christmas is you,spotify:track:0bYg9bo50gSsH3LtXe2SQn
+,288826.0,False,,Mariah Carey,,I Don't Wanna Cry,1,,1990-06-12,mariah carey i don't,spotify:track:1hFtJ5rV3aAm58ErijHdFO
+,197773.0,False,,Marian Hill,,Down,15,,2016-06-24,marian hill down,spotify:track:5eCkuGPZNl4mISFNPgr3Dd
+,234308.0,True,,"Maroon 5, Future",,Cold (feat. Future),20,,2018-06-15,maroon 5 cold,spotify:track:7gwLQ4tZ5UdZ7qNcDyJ8wr
+,214265.0,False,,"Maroon 5, Kendrick Lamar",,Don't Wanna Know (feat. Kendrick Lamar),11,,2018-06-15,maroon 5 don't wanna know,spotify:track:1nueTG77MzNkJTKQ0ZdGzT
+,235545.0,True,,"Maroon 5, Cardi B",,Girls Like You (feat. Cardi B),6,,2018-05-30,maroon 5 girls like you,spotify:track:6FRLCMO5TUHTexlWo8ym1W
+,190642.0,False,,Maroon 5,,Wait,24,,2018-06-15,maroon 5 wait,spotify:track:6AvfZXpbb6r35DfF7gHPRq
+,199849.0,False,,"Maroon 5, SZA",,What Lovers Do (feat. SZA),21,,2018-06-15,maroon 5 what lovers do,spotify:track:2j5hsQvApottzvTn4pFJWF
+,273802.0,False,,Marshmello,,Alone,1,,2016-05-13,marshmello alone,spotify:track:12mGwph2YzDIlChtq3EdXP
+,202620.0,True,,"Marshmello, Anne-Marie",,FRIENDS,21,,2018-02-09,marshmello friends,spotify:track:08bNPGLD8AhKpnnERrAc6G
+,180822.0,False,,"Marshmello, Khalid",,Silence,22,,2017-08-11,marshmello silence,spotify:track:7vGuf3Y35N4wmASOKLUVVU
+,216419.0,False,,"Martin Garrix, Khalid",,Ocean (feat. Khalid),1,,2018-06-15,martin garrix ocean,spotify:track:3nc420PXjTdBV5TN0gCFkS
+,220883.0,False,,"Martin Garrix, Dua Lipa",,Scared to Be Lonely,14,,2017-01-27,martin garrix scared to be lonely,spotify:track:3ebXMykcMXOcLeJ9xZ17XH
+,192520.0,False,,Mason Ramsey,,Famous,2,,2018-07-20,mason ramsey famous,spotify:track:1lasE4yXQmZ5mwWdGQGn8E
+,282666.0,True,,Meek Mill,,1942 Flows,1,,2017-07-21,meek mill 1942 flows,spotify:track:7sLDnUauivS2vN6Z9EfUJT
+,257853.0,False,,"Meek Mill, Lil Uzi Vert",,F**k That Check Up (feat. Lil Uzi Vert),1,,2017-07-21,meek mill f**k that check up,spotify:track:7KmguHS8eVmZOpdpg0gnv2
+,250466.0,True,,Meek Mill,,Heavy Heart,1,,2017-08-04,meek mill heavy heart,spotify:track:1QiwdLAzAnzmiwvoGMXM7b
+,211684.0,True,,Meek Mill,,Issues,1,,2017-07-21,meek mill issues,spotify:track:1GOuHB20lqVyxv3GdxovPY
+,227956.0,True,,"Meek Mill, Young Thug",,We Ball (feat. Young Thug),1,,2017-08-04,meek mill we ball,spotify:track:4iDtAYDLJWM2TrTERKPvFq
+,205373.0,True,,"Meek Mill, Chris Brown, Ty Dolla $ign",,Whatever You Need (feat. Chris Brown & Ty Dolla $ign),13,,2017-07-21,meek mill whatever you need,spotify:track:6yMxfx9wpiuhhdb8vHDVMu
+,205373.0,True,,"Meek Mill, Chris Brown, Ty Dolla $ign",,Whatever You Need (feat. Chris Brown & Ty Dolla $ign),1,,2017-07-21,meek mill wins & losses,spotify:track:6yMxfx9wpiuhhdb8vHDVMu
+,152862.0,False,,Meghan Trainor,,NO EXCUSES,12,,2018-03-01,meghan trainor no excuses,spotify:track:7fCNUWi6uflDTQ08srxMZk
+,261733.0,True,,"Metro Boomin, Offset, Drake",,No Complaints,5,,2017-06-23,metro boomin no complaints,spotify:track:6kig1UFggPUyZBCvXD3Wod
+,176986.0,False,,Michael Ray,,Think A Little Less,11,,2015-08-07,michael ray think a little less,spotify:track:4JjIIBNoho0V2gZjH4nEzR
+,220800.0,False,,Midland,,Drinkin' Problem,20,,2017-09-22,midland drinkin' problem,spotify:track:1vBpwxsLVwaR4evBIaFmqD
+,287992.0,True,,Migos,,Auto Pilot,1,,2018-01-26,migos auto pilot,spotify:track:4Kw3CztmD15X1QGDnnHmLD
+,251858.0,True,,"Migos, 21 Savage",,BBO (Bad Bitches Only),2,,2018-01-26,migos bbo (bad bitches only),spotify:track:4BHzHISX21PYwGXiBEUQ70
+,343150.0,True,,"Migos, Lil Uzi Vert",,Bad and Boujee (feat. Lil Uzi Vert),25,,2017-01-27,migos bad and boujee,spotify:track:4Km5HrUvYTaSUfiSGPJeQR
+,259340.0,True,,"Migos, Gucci Mane",,CC,1,,2018-01-26,migos cc,spotify:track:35ffVv9x4mtzBh5rF1K9sP
+,232705.0,True,,Migos,,Call Casting,1,,2017-01-27,migos call casting,spotify:track:0jOfl1nZf6sVBTG08Q4brn
+,276147.0,True,,"Migos, Drake",,Walk It Talk It,1,,2018-01-26,migos culture,spotify:track:6n4U3TlzUGhdSFbUUhTvLP
+,214586.0,True,,"Migos, Marshmello",,Danger (with Migos & Marshmello),1,,2017-12-08,migos danger,spotify:track:0nhVrTiCGiGRCoZOJiWzm1
+,315185.0,True,,Migos,,Emoji A Chain,1,,2018-01-26,migos emoji a chain,spotify:track:0G9rmRmQDFk9O2tzZLyRkc
+,181318.0,True,,Migos,,Gang Gang,1,,2018-01-26,migos gang gang,spotify:track:6RKkHI2fkmgZq7uQPPav8f
+,257545.0,True,,Migos,,Get Right Witcha,1,,2017-01-27,migos get right witcha,spotify:track:76Y0gxtTxN0FyDCYh5qYQj
+,255849.0,True,,Migos,,Higher We Go - Intro,1,,2018-01-26,migos higher we go (intro),spotify:track:43dOwOq0mB4i6j4SpcSkqC
+,363934.0,True,,"Migos, Travis Scott",,Kelly Price (feat. Travis Scott),2,,2017-01-27,migos kelly price,spotify:track:204U3zjm9kkzX25Pr4Rdld
+,255378.0,True,,Migos,,Narcos,9,,2018-01-26,migos narcos,spotify:track:0wbnC9AUenxp613TYaJsGK
+,233880.0,True,,"Migos, Post Malone",,Notice Me,5,,2018-01-26,migos notice me,spotify:track:3OnOomd79OjqSYHchCQ6ht
+,304041.0,True,,"Migos, Gucci Mane",,Slippery (feat. Gucci Mane),21,,2017-01-27,migos slippery,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE
+,190288.0,True,,Migos,,Stir Fry,20,,2018-01-26,migos stir fry,spotify:track:2UVbBKQOdFAekPTRsnkzcf
+,293137.0,True,,Migos,,Supastars,1,,2018-01-26,migos supastars,spotify:track:7yt6eiZQCkVFEzwGp4Pbor
+,242407.0,True,,Migos,,T-Shirt,23,,2017-01-27,migos t-shirt,spotify:track:7KOlJ92bu51cltsD9KU5I7
+,276147.0,True,,"Migos, Drake",,Walk It Talk It,22,,2018-01-26,migos walk it talk it,spotify:track:6n4U3TlzUGhdSFbUUhTvLP
+,202834.0,True,,"Migos, Travis Scott, Ty Dolla $ign, Big Sean",,White Sand,1,,2018-01-26,migos white sand,spotify:track:2KokOIKdw4zZutDil85Ugh
+,303076.0,True,,"Migos, Nicki Minaj, Cardi B",,MotorSport,21,,2018-01-26,"migos, nicki minaj motorsport",spotify:track:4wFjTWCunQFKtukqrNijEt
+,259333.0,True,,"Miguel, Travis Scott",,Sky Walker (feat. Travis Scott),25,,2017-12-01,miguel sky walker,spotify:track:5WoaF1B5XIEnWfmb5NZikf
+,231906.0,False,,Miley Cyrus,,Malibu,15,,2017-09-29,miley cyrus malibu,spotify:track:1UZOjK1BwmwWU14Erba9CZ
+,231906.0,False,,Miley Cyrus,,Malibu,1,,2017-09-29,miley cyrus younger now,spotify:track:1UZOjK1BwmwWU14Erba9CZ
+,259279.0,False,,Miranda Lambert,,Tin Man,1,,2016-11-18,miranda lambert tin man,spotify:track:4ckQIgBy1gVeevf7UAereE
+,213120.0,True,,"Missy Elliott, Lamb",,I'm Better (feat. Lamb),1,,2017-01-27,missy elliott i'm better,spotify:track:2Kf9fwIOwZwd6Aw7OxfkF0
+,213183.0,False,,Morgan Evans,,Kiss Somebody,1,,2018-10-12,morgan evans kiss somebody,spotify:track:4f3fb3alVLFc8Ga4ncpg7x
+,198120.0,False,,"Morgan Wallen, Florida Georgia Line",,Up Down (feat. Florida Georgia Line),15,,2018-04-27,morgan wallen up down,spotify:track:3EWMoDIm6lzuR0zQKtuCJX
+,219706.0,True,,"N.E.R.D, Rihanna, Pharrell Williams",,Lemon,21,,2017-12-15,n*e*r*d lemon,spotify:track:4PpuH4mxL0rD35mOWaLoKS
+,195053.0,True,,"NAV, Travis Scott",,Champion (feat. Travis Scott),1,,2018-05-18,nav champion,spotify:track:6nO3tr47nr2P7f3hXb8JIo
+,228080.0,True,,"NAV, Lil Uzi Vert",,Wanted You (feat. Lil Uzi Vert),7,,2017-11-03,nav wanted you,spotify:track:790MhTXPFrYkrqCKvpg4t1
+,212120.0,False,,NF,,Let You Down,27,,2017-10-06,nf let you down,spotify:track:52okn5MNA47tk87PeZJLEL
+,183826.0,False,,NF,,NO NAME,1,,2018-01-19,nf no name,spotify:track:7hdw5gAGMyyn9z0XgfTv1j
+,192160.0,False,,Nat King Cole,,The Christmas Song (Merry Christmas To You),3,,1962,nat king cole the christmas song (merry christmas to you),spotify:track:4PS1e8f2LvuTFgUs1Cn3ON
+,231375.0,False,,Hit The Button Karaoke,,Criminal (Originally Performed by Natti Natasha X Ozuna) - Karaoke Instrumental Version,3,,2018-02-15,natti natasha x ozuna criminal,spotify:track:08Zs7WozVFhEKiD7yrHwYq
+,188174.0,False,,Niall Horan,,Slow Hands,31,,2017-10-20,niall horan slow hands,spotify:track:2cOUlop2ZakjOKe4WinesN
+,232852.0,False,,Niall Horan,,This Town,4,,2017-10-20,niall horan this town,spotify:track:0qvzXomUDJVaUboy2wMfiS
+,223043.0,True,,Niall Horan,,Too Much To Ask,11,,2017-10-20,niall horan too much to ask,spotify:track:39jXnbACjiaiTwwhsr5sY5
+,214760.0,False,,"Nick Jonas, Nicki Minaj",,Bom Bidi Bom,1,,2017-02-10,nick jonas bom bidi bom,spotify:track:4PxDHEEyHgYC6NUgqMtDFy
+,191699.0,True,,Nicki Minaj,,Barbie Tingz,4,,2018-04-12,nicki minaj barbie tingz,spotify:track:2qsQ8eVDPmobZpvDxQCVQu
+,189533.0,True,,"Nicki Minaj, Ariana Grande",,Bed (feat. Ariana Grande),3,,2018-08-10,nicki minaj bed,spotify:track:3L4GsGLgxpHieVQH86H8bv
+,295653.0,True,,"Nicki Minaj, Lil Wayne",,Changed It,1,,2017-03-09,nicki minaj changed it,spotify:track:63NTlJWNS65JjsE3QJYr20
+,191600.0,True,,Nicki Minaj,,Chun-Li,13,,2018-08-10,nicki minaj chun-li,spotify:track:1e4rwBPVI32vZtTJu7mJ4J
+,229573.0,True,,Nicki Minaj,,Regret In Your Tears,1,,2017-03-09,nicki minaj regret in your tears,spotify:track:0j8zLbIueSkVqB3Tl6PsjA
+,192600.0,True,,"Nicki Minaj, Lil Wayne",,Rich Sex (feat. Lil Wayne),1,,2018-08-10,nicki minaj rich sex,spotify:track:2D1MK9oaxy7axXggy3iVbp
+,272453.0,True,,"Nicki Minaj, Drake, Lil Wayne",,No Frauds,7,,2017-03-10,"nicki minaj, drake no frauds",spotify:track:7KcGEssn7BnJdTgildK5y0
+,219506.0,False,,Nicky Jam,,El Amante,15,,2017-01-20,nicky jam el amante,spotify:track:3umS4y3uQDkqekNjVpiRUs
+,173627.0,False,,"Nicky Jam, J Balvin",,X,18,,2018-03-02,nicky jam x j balvin x,spotify:track:39N9RPD9MRb5WmoLzNzPeA
+,242081.0,False,,"Noah Cyrus, Labrinth",,Make Me (Cry),8,,2016-11-15,noah cyrus make me (cry),spotify:track:2BrzlUj1u1CtvaJDGIKpsP
+,147986.0,True,,"Offset, Metro Boomin",,Nightmare,1,,2017-10-30,offset nightmare,spotify:track:7LAhKXDNWwq3CmnFP3UIOP
+,172800.0,True,,"Offset, Metro Boomin",,Ric Flair Drip (& Metro Boomin),30,,2017-10-30,offset ric flair drip,spotify:track:7sO5G9EABYOXQKNPNiE9NR
+,166573.0,False,,Old Dominion,,Hotel Key,1,,2017-08-25,old dominion hotel key,spotify:track:33471tzU1VghDg9zNgGRpz
+,176893.0,False,,Old Dominion,,No Such Thing as a Broken Heart,19,,2017-08-25,old dominion no such thing as a broken heart,spotify:track:0OlS52TmtK2gPaEtdmr7DN
+,184080.0,False,,Old Dominion,,Written in the Sand,19,,2017-08-25,old dominion written in the sand,spotify:track:2A69wys3S9uiPSmn6UZWJn
+,258000.0,False,,"Ozuna, Romeo Santos",,El Farsante - Remix,20,,2018-01-30,ozuna el farsante,spotify:track:7uYgVgRSgqluZclLS7wpp4
+,269600.0,False,,P!nk,,What About Us,15,,2017-10-13,p!nk beautiful trauma,spotify:track:0Qh38w01QRXK6KHIv0e3hb
+,269600.0,False,,P!nk,,What About Us,21,,2017-10-13,p!nk what about us,spotify:track:0Qh38w01QRXK6KHIv0e3hb
+,202661.0,False,,PARTYNEXTDOOR,,Not Nice,5,,2016-08-12,partynextdoor not nice,spotify:track:4STaHtfguDMkWbPEo6Fwcx
+,190946.0,False,,Panic! At The Disco,,High Hopes,2,,2018-06-22,panic! at the disco high hopes,spotify:track:1rqqCSm0Qe4I9rUvWncaom
+,189186.0,False,,Panic! At The Disco,,Say Amen (Saturday Night),3,,2018-06-22,panic! at the disco say amen (saturday night),spotify:track:76vMKwFtdDDCLcM6zXybjB
+,182693.0,False,,Paramore,,Hard Times,1,,2017-05-12,paramore hard times,spotify:track:0w5Bdu51Ka25Pf3hojsKHh
+,202853.0,False,,"Pharrell Williams, Camila Cabello",,Sangria Wine,1,,2018-05-18,pharrell williams x camila cabello sangria wine,spotify:track:6XlSyYFTU1nodeWwwzVgTV
+,181812.0,True,,Playboi Carti,,Magnolia,20,,2017-04-14,playboi carti magnolia,spotify:track:1e1JKLEDKP7hEQzJfNAgPl
+,153800.0,True,,"Playboi Carti, Lil Uzi Vert",,Shoota (feat. Lil Uzi Vert),4,,2018-05-11,playboi carti shoota,spotify:track:2BJSMvOGABRxokHKB0OI8i
+,235535.0,True,,"Playboi Carti, Lil Uzi Vert",,wokeuplikethis*,10,,2017-04-14,playboi carti wokeuplikethis*,spotify:track:59J5nzL1KniFHnU120dQzt
+,231673.0,True,,"Plies, Kodak Black",,Real Hitta (feat. Kodak Black),1,,2017-05-12,plies real hitta,spotify:track:1fnRwgZLgAYMM1dVL1oqwG
+,174653.0,True,,Plies,,Rock,5,,2018-03-16,plies rock,spotify:track:0QVISdPWRllAmoDBG3DEHU
+,245604.0,True,,PnB Rock,,Selfish,7,,2017-01-13,pnb rock selfish,spotify:track:2xbI8Vmyv3TkpTdywpPyNw
+,163253.0,False,,Portugal. The Man,,Feel It Still,44,,2017-06-16,portugal. the man feel it still,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK
+,211426.0,True,,Post Malone,,92 Explorer,3,,2018-04-27,post malone 92 explorer,spotify:track:1D2L6MefbXon28PzIk9I3r
+,206266.0,True,,"Post Malone, Nicki Minaj",,Ball For Me (feat. Nicki Minaj),10,,2018-04-27,post malone ball for me,spotify:track:6IaieqiCVvsNvEt6Y7yOFa
+,231266.0,True,,Post Malone,,Better Now,10,,2018-04-27,post malone better now,spotify:track:7dt6x5M1jzdTEt8oCbisTK
+,261800.0,False,,Post Malone,,Blame It On Me,2,,2018-04-27,post malone blame it on me,spotify:track:1ZemPoaj7LBj1RAQrb89EC
+,227533.0,True,,Post Malone,,Candy Paint,20,,2018-04-27,post malone candy paint,spotify:track:32lItqlMi4LBhb4k0BaSaC
+,220293.0,True,,"Post Malone, Quavo",,Congratulations,45,,2016-12-09,post malone congratulations,spotify:track:3a1lNhkSLSkpJE4MSHpDu9
+,179613.0,True,,Post Malone,,Go Flex,10,,2016-12-09,post malone go flex,spotify:track:5yuShbu70mtHXY0yLzCQLQ
+,223346.0,True,,Post Malone,,I Fall Apart,29,,2016-12-09,post malone i fall apart,spotify:track:75ZvA4QfFiZvzhj2xkaWAh
+,112013.0,False,,Post Malone,,Jonestown (Interlude),1,,2018-04-27,post malone jonestown (interlude),spotify:track:0R6Jlsq25eZB3Wftpxi3oF
+,228226.0,True,,Post Malone,,Otherside,2,,2018-04-27,post malone otherside,spotify:track:4qWCFTuNnmGNdY4egtb4ZY
+,246986.0,True,,Post Malone,,Over Now,3,,2018-04-27,post malone over now,spotify:track:09IOPhEh1OMe0HD9b36FJk
+,221786.0,False,,Post Malone,,Paranoid,6,,2018-04-27,post malone paranoid,spotify:track:3fpVWegR6YOS1Yk5HSMYIq
+,221440.0,True,,"Post Malone, Ty Dolla $ign",,Psycho (feat. Ty Dolla $ign),19,,2018-04-27,post malone psycho,spotify:track:3swc6WTsr7rl9DqQKQA55C
+,206453.0,True,,Post Malone,,Rich & Sad,6,,2018-04-27,post malone rich & sad,spotify:track:2VdT56BGpdqNHUgOe1j5vc
+,218146.0,True,,"Post Malone, 21 Savage",,rockstar (feat. 21 Savage),40,,2018-04-27,post malone rockstar,spotify:track:0e7ipj03S05BNilyu5bRzt
+,212466.0,True,,"Post Malone, G-Eazy, YG",,Same Bitches (feat. G-Eazy & YG),3,,2018-04-27,post malone same bitches,spotify:track:688QpQAwqsLdBR6lr13wK1
+,194560.0,True,,"Post Malone, Swae Lee",,Spoil My Night (feat. Swae Lee),5,,2018-04-27,post malone spoil my night,spotify:track:5VuxWXbt7XENQCtE9TzpTv
+,204426.0,True,,Post Malone,,Stay,4,,2018-04-27,post malone stay,spotify:track:4H7WNRErSbONkM06blBoGc
+,228146.0,True,,Post Malone,,Sugar Wraith,1,,2018-04-27,post malone sugar wraith,spotify:track:0MrRAUcB8AZiB9ue2VOBYe
+,216746.0,True,,Post Malone,,Takin' Shots,3,,2018-04-27,post malone takin' shots,spotify:track:5ffntNJnJOeFv7b7DCd0Bw
+,204360.0,True,,Post Malone,,Zack And Codeine,3,,2018-04-27,post malone zack and codeine,spotify:track:5lZZmityu9TAjNvSY6GLhR
+,202120.0,True,,Pusha T,,If You Know You Know,1,,2018-05-25,pusha t if you know you know,spotify:track:6bGwKHXHNLmTy6yt147FPh
+,170240.0,True,,Pusha T,,Infrared,1,,2018-05-25,pusha t infrared,spotify:track:6cpsixIHI63L0hwh3CwZg3
+,166120.0,True,,Pusha T,,The Games We Play,1,,2018-05-25,pusha t the games we play,spotify:track:7iEoaTyBCqLaAwJnOP1BTn
+,153266.0,True,,"Pusha T, Kanye West",,What Would Meek Do?,1,,2018-05-25,pusha t what would meek do?,spotify:track:5vnuJ8EopkP5dHukpOmT3L
+,213613.0,True,,"Quality Control, Quavo, Lil Yachty",,Ice Tray,5,,2017-12-08,quavo ice tray,spotify:track:3wdfLVUhmX64lIyWIIEW8s
+,176075.0,False,,Queen Naija,,Karma,1,,2018-06-29,queen naija karma,spotify:track:3qmm9AdG0TnShv0drgXNIQ
+,219135.0,False,,Queen Naija,,Medicine,5,,2018-06-08,queen naija medicine,spotify:track:4lFfMRH0YH4pW5gczTDbNC
+,291893.0,True,,"Rae Sremmurd, Gucci Mane",,Black Beatles,7,,2016-08-12,rae sremmurd black beatles,spotify:track:6fujklziTHa8uoM5OQSfIo
+,193510.0,True,,"Rae Sremmurd, Swae Lee, Slim Jxmmi, Travis Scott",,CLOSE (feat. Travis Scott) - From SR3MM,1,,2018-05-04,rae sremmurd close,spotify:track:1oUudyBYVGMIC8JXeIsFzq
+,204787.0,True,,"Rae Sremmurd, Swae Lee, Slim Jxmmi",,Perplexing Pegasus - From SR3MM,3,,2018-05-04,rae sremmurd perplexing pegasus,spotify:track:1ung2kajpw24AaHjBtPY3j
+,332300.0,True,,"Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",,Powerglide (feat. Juicy J) - From SR3MM,17,,2018-05-04,rae sremmurd powerglide,spotify:track:1BuZAIO8WZpavWVbbq3Lci
+,208120.0,True,,Rae Sremmurd,,Swang,20,,2016-08-12,rae sremmurd swang,spotify:track:6mapJIPnQ23RTAevUoE0DL
+,200186.0,False,,Rag'n'Bone Man,,Human,7,,2017-02-10,rag'n'bone man human,spotify:track:58zsLZPvfflaiIbNWoA22O
+,206826.0,False,,Rascal Flatts,,Yours If You Want It,10,,2017-05-19,rascal flatts yours if you want it,spotify:track:4D4xJ4LyDXBWIf9thFSMAJ
+,213577.0,False,,Red Marlow,,I Pray - The Voice Performance,1,,2017-12-20,red marlow i pray,spotify:track:4cF4l5ShMLqMCFeabt8Xa6
+,221653.0,False,,"Reik, Ozuna, Wisin",,Me Niego,3,,2018-02-16,reik me niego,spotify:track:6jA8JUuPCGYjFcgw0AoM5T
+,155193.0,True,,"Ricegum, Alissa Violet",,Its Every Night Sis,1,,2017-06-09,ricegum its every night sis,spotify:track:15Uxmx6D6hW0gY5kc7bpqU
+,191937.0,True,,"Rich The Kid, Kendrick Lamar",,New Freezer (feat. Kendrick Lamar),19,,2018-03-30,rich the kid new freezer,spotify:track:2EgB4n6XyBsuNUbuarr4eG
+,175229.0,True,,Rich The Kid,,Plug Walk,20,,2018-03-30,rich the kid plug walk,spotify:track:1ZAyjvIk9YiD76yYy0TEG6
+,275720.0,True,,"Rick Ross, Young Thug, Wale",,Trap Trap Trap,1,,2017-03-17,rick ross trap trap trap,spotify:track:1KZ0Xo6Mmeprp1Sw5xCHYz
+,224000.0,True,,Rihanna,,Love On The Brain,16,,2016-01-28,rihanna love on the brain,spotify:track:2aksifNn5ph8igDOkPBA02
+,206400.0,True,,Rihanna,,Sex With Me,2,,2016-01-28,rihanna sex with me,spotify:track:6WAxKNbZoGNzQTIvdMqkFs
+,204700.0,False,,"Romeo Santos, Daddy Yankee, Nicky Jam",,Bella y Sensual,1,,2017-07-21,romeo santos bella y sensual,spotify:track:0ERbK7qVqveCaBWIiYCrl3
+,239823.0,False,,Romeo Santos,,Héroe Favorito,1,,2017-07-21,romeo santos heroe favorito,spotify:track:6BdAwMv1YorLfkBWlE493X
+,234828.0,False,,Romeo Santos,,Imitadora,1,,2017-07-21,romeo santos imitadora,spotify:track:6r46lnXFbE9fr2d3KNaGbe
+,237506.0,True,,Russ,,Losin Control,19,,2017-05-05,russ losin control,spotify:track:4cxMGhkinTocPSVVKWIw0d
+,216960.0,False,,Russell Dickerson,,Yours,19,,2017-10-13,russell dickerson yours,spotify:track:6RSNKGdv3nDTHqgw4bdzyF
+,219306.0,True,,SOB X RBE,,Paramedic!,4,,2018-02-09,sob x rbe paramedic!,spotify:track:2tPcTFiQF9MbVUyjZ3zDhA
+,231253.0,True,,SZA,,Broken Clocks,4,,2017-06-09,sza broken clocks,spotify:track:2fXwCWkh6YG5zU1IyvQrbs
+,275080.0,True,,"SZA, Travis Scott",,Love Galore (feat. Travis Scott),20,,2017-06-09,sza love galore,spotify:track:0q75NwOoFiARAVp4EXU4Bs
+,272186.0,True,,SZA,,The Weekend,24,,2017-06-09,sza the weekend,spotify:track:6gU9OKjOE7ghfEd55oRO57
+,193181.0,False,,Sage The Gemini,,Now and Later,1,,2017-07-21,sage the gemini now & later,spotify:track:08WPvDEsHvTFuB9w8tC2OS
+,165386.0,False,,Sam Hunt,,Body Like A Back Road,41,,2017-02-01,sam hunt body like a back road,spotify:track:7mldq42yDuxiUNn08nvzHO
+,213986.0,False,,Sam Hunt,,Downtown's Dead,2,,2018-05-16,sam hunt downtown's dead,spotify:track:5eFfsbjSouG8qOpg9ZqDl6
+,221595.0,True,,Sam Smith,,Pray,2,,2017-11-03,sam smith pray,spotify:track:59ljpSFcgtfWJKS3vqG27R
+,201000.0,False,,Sam Smith,,Too Good At Goodbyes,23,,2017-11-03,sam smith too good at goodbyes,spotify:track:3VlbOrM6nYPprVvzBZllE5
+,267426.0,True,,"ScHoolboy Q, 2 Chainz, Saudi",,X (with 2 Chainz & Saudi),5,,2018-02-09,"schoolboy q, 2 chainz x",spotify:track:4LmAnpjlhWTahvRkYR8xJa
+,238954.0,False,,Scotty McCreery,,Five More Minutes,19,,2017-05-05,scotty mccreery five more minutes,spotify:track:66IULVOTImQG2u0cJ3Ls04
+,207904.0,False,,Selena Gomez,,Back To You - From 13 Reasons Why – Season 2 Soundtrack,8,,2018-05-10,selena gomez back to you,spotify:track:4hQ6UGyWQIGJmHSo0J88JW
+,214647.0,False,,Selena Gomez,,Bad Liar,14,,2017-05-18,selena gomez bad liar,spotify:track:2fZQIJew3nkNe99s2PKzul
+,186112.0,False,,"Selena Gomez, Gucci Mane",,Fetish (feat. Gucci Mane),12,,2017-07-13,selena gomez fetish,spotify:track:4lnAN2S1fcI0SjxEbksZVr
+,195840.0,False,,"Shakira, Maluma",,Chantaje (feat. Maluma),7,,2017-05-26,shakira chantaje,spotify:track:6mICuAdrwEjh6Y6lroV2Kg
+,226893.0,False,,Shakira,,Me Enamoré,2,,2017-05-26,shakira me enamore,spotify:track:4qknM1pQz53QOyfDVTjcM9
+,195213.0,False,,"Shakira, Nicky Jam",,Perro Fiel (feat. Nicky Jam),1,,2017-05-26,shakira perro fiel,spotify:track:70lnL3QaSOIIyMa2X9aVRL
+,211360.0,False,,Shawn Mendes,,In My Blood,16,,2018-05-25,shawn mendes in my blood,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH
+,201200.0,False,,Shawn Mendes,,Lost In Japan,1,,2018-05-25,shawn mendes lost in japan,spotify:track:79esEXlqqmq0GPz0xQSZTV
+,208733.0,False,,Shawn Mendes,,Mercy,13,,2017-04-20,shawn mendes mercy,spotify:track:0AS63m1wHv9n4VVRizK6Hc
+,199440.0,False,,Shawn Mendes,,There's Nothing Holdin' Me Back,34,,2017-04-20,shawn mendes there's nothing holdin' me back,spotify:track:7JJmb5XwzOO8jgpou264Ml
+,187973.0,False,,Shawn Mendes,,Treat You Better,5,,2017-04-20,shawn mendes treat you better,spotify:track:3QGsuHI8jO1Rx4JWLUh9jd
+,190866.0,False,,"Shawn Mendes, Khalid",,Youth (feat. Khalid),2,,2018-05-25,shawn mendes youth,spotify:track:1h0yImRPIVAjhhHeNVlTuC
+,211666.0,False,,Sia,,Cheap Thrills,2,,2016-10-21,sia cheap thrills,spotify:track:3S4px9f4lceWdKf0gWciFu
+,252320.0,False,,Sia,,Helium,1,,2017-02-10,sia helium,spotify:track:4S6fv0puLCsfYjyBTPDb9k
+,210226.0,False,,"Sia, Kendrick Lamar",,The Greatest,2,,2016-10-21,sia the greatest,spotify:track:7xHWNBFm6ObGEQPaUxHuKO
+,184880.0,True,,"Sofi Tukker, NERVO, The Knocks, ALISA UENO",,"Best Friend (feat. NERVO, The Knocks & ALISA UENO)",5,,2018-04-13,sofi tukker best friend,spotify:track:6twQJ2KMwNzODCY0HzXP2E
+,193792.0,False,,"Sofia Carson, Cameron Boyce, Booboo Stewart, Mitchell Hope",,Chillin' Like a Villain,1,,2017-07-21,"sofia carson, cameron boyce, booboo stewart chillin' like a villain",spotify:track:1rM0CnyUiiw6A9CHJRXjZA
+,222040.0,False,,"Starley, Ryan Riback",,Call on Me - Ryan Riback Remix,14,,2016-10-18,starley call on me,spotify:track:2L6orAlH8tBhiFTumIfMyF
+,215106.0,False,,"Sugarland, Taylor Swift",,Babe,2,,2018-06-08,sugarland babe,spotify:track:7fRruZ12gXGwBs0zXQ6e5V
+,256341.0,True,,"Rae Sremmurd, Swae Lee, Slim Jxmmi",,Guatemala - From Swaecation,1,,2018-05-04,swae lee guatemala,spotify:track:0TCnOEVeLQMXOUrpPlM7uY
+,309120.0,True,,Tank,,When We,20,,2017-09-29,tank when we,spotify:track:2HWelwHQS4EdRqIycZOc3O
+,140000.0,True,,Tay-K,,The Race,19,,2017-12-14,tay-k the race,spotify:track:3wGXyJGsCf1myH5MooQIqE
+,208186.0,False,,Taylor Swift,,...Ready For It?,19,,2017-11-10,taylor swift ...ready for it?,spotify:track:2yLa0QULdQr0qAIvVwN6B5
+,203506.0,False,,Taylor Swift,,Call It What You Want,2,,2017-11-10,taylor swift call it what you want,spotify:track:1GwMQaZz6Au3QLDbjbMdme
+,232253.0,False,,Taylor Swift,,Delicate,17,,2017-11-10,taylor swift delicate,spotify:track:6NFyWDv5CjfwuzoCkw47Xf
+,244826.0,False,,"Taylor Swift, Ed Sheeran, Future",,End Game,13,,2017-11-10,taylor swift end game,spotify:track:2x0WlnmfG39ZuDmstl9xfX
+,209680.0,False,,Taylor Swift,,Gorgeous,4,,2017-11-10,taylor swift gorgeous,spotify:track:1ZY1PqizIl78geGM4xWlEA
+,211853.0,False,,Taylor Swift,,Look What You Made Me Do,19,,2017-11-08,taylor swift look what you made me do,spotify:track:1JbR9RDP3ogVNEWFgNXAjh
+,254693.0,True,,Tee Grizzley,,First Day Out,20,,2017-04-07,tee grizzley first day out,spotify:track:3muBQDekYAg7jm6hDu6R0Z
+,264853.0,False,,The Carters,,APES**T,3,,2018-06-15,the carters apes**t,spotify:track:0B08s1tLWCXoFmGP0vIubM
+,244133.0,True,,The Carters,,BOSS,2,,2018-06-16,the carters boss,spotify:track:4F8V44j8cbjHnXjfW2HruU
+,344293.0,True,,The Carters,,FRIENDS,1,,2018-06-16,the carters friends,spotify:track:0gu5B9dUOiLezdDjrLPCCV
+,233680.0,True,,The Carters,,NICE,1,,2018-06-16,the carters nice,spotify:track:44lusH2vzc4sRAwsooRhPh
+,285200.0,False,,The Carters,,SUMMER,1,,2018-06-16,the carters summer,spotify:track:54vcvhmByc2BC4k9JDcQrj
+,244960.0,False,,"The Chainsmokers, Halsey",,Closer,26,,2016-07-29,the chainsmokers closer,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw
+,208373.0,False,,"The Chainsmokers, Daya",,Don't Let Me Down,2,,2016-02-05,the chainsmokers don't let me down,spotify:track:1i1fxkWeaMmKEB4T7zqbzK
+,223466.0,False,,The Chainsmokers,,Everybody Hates Me,1,,2018-12-14,the chainsmokers everybody hates me,spotify:track:6ufrOaf4v6Qady6GiIpQ0s
+,208000.0,False,,The Chainsmokers,,Honest,4,,2017-04-07,the chainsmokers honest,spotify:track:6KjbNLbRjuoa8rEq5yNA6H
+,221520.0,False,,The Chainsmokers,,Paris,18,,2017-01-13,the chainsmokers paris,spotify:track:15vzANxN8G9wWfwAJLLMCg
+,197946.0,False,,"The Chainsmokers, Kelsea Ballerini",,This Feeling,3,,2018-12-14,the chainsmokers sick boy,spotify:track:4NBTZtAt1F13VvlSKe6KTl
+,247160.0,False,,"The Chainsmokers, Coldplay",,Something Just Like This,39,,2017-04-07,the chainsmokers something just like this,spotify:track:6RUKPb4LETWmmr3iAEQktW
+,177573.0,True,,The Chainsmokers,,The One,2,,2017-04-07,the chainsmokers the one,spotify:track:0wfbD5rAksdXUzRvMfM3x5
+,274093.0,False,,The Revivalists,,Wish I Knew You,9,,2015-07-15,the revivalists wish i knew you,spotify:track:2EWpa5XnAuSn0sIkSSIhYk
+,228373.0,False,,The Weeknd,,Call Out My Name,14,,2018-03-30,the weeknd call out my name,spotify:track:4MPTj8lMMvxLwT3EwuXFop
+,230026.0,True,,"The Weeknd, Gesaffelstein",,Hurt You,1,,2018-03-30,the weeknd hurt you,spotify:track:13wNEvWmBsWaWVtiLPRIW5
+,269186.0,False,,"The Weeknd, Daft Punk",,I Feel It Coming,16,,2016-11-25,the weeknd i feel it coming,spotify:track:3dhjNA0jGA8vHBQ1VdD6vV
+,241066.0,False,,"The Weeknd, Gesaffelstein",,I Was Never There,1,,2018-03-30,the weeknd i was never there,spotify:track:5rgnyXr2PXFWsAnPFew077
+,249213.0,True,,The Weeknd,,Party Monster,9,,2016-11-25,the weeknd party monster,spotify:track:4F7A0DXBrmUAkp32uenhZt
+,211440.0,True,,"The Weeknd, Kendrick Lamar",,Pray For Me (with Kendrick Lamar),20,,2018-02-09,the weeknd pray for me,spotify:track:77UjLW8j5UAGAGVGhR5oUK
+,170573.0,True,,The Weeknd,,Privilege,1,,2018-03-30,the weeknd privilege,spotify:track:26Fqtv4Aa7kyd1WWGHai6A
+,218880.0,True,,The Weeknd,,Reminder,13,,2016-11-25,the weeknd reminder,spotify:track:37F0uwRSrdzkBiuj0D5UHI
+,230453.0,True,,"The Weeknd, Daft Punk",,Starboy,11,,2016-11-25,the weeknd starboy,spotify:track:7MXVkk9YMctZqd1Srtv4MB
+,221106.0,False,,The Weeknd,,Try Me,2,,2018-03-30,the weeknd try me,spotify:track:4rv1ww0dUwFZcDVPqhcOcX
+,220293.0,True,,The Weeknd,,Wasted Times,3,,2018-03-30,the weeknd wasted times,spotify:track:72TyiiduRmczEbDIEtKQdR
+,223626.0,False,,"Thomas Rhett, Maren Morris",,Craving You,20,,2017-09-07,thomas rhett craving you,spotify:track:17hd4ptJCbsEeLj0auPcwy
+,205453.0,False,,Thomas Rhett,,Marry Me,2,,2017-09-08,thomas rhett life changes,spotify:track:0OWZFobGSIW9GrSlQ9C5pc
+,205453.0,False,,Thomas Rhett,,Marry Me,19,,2017-09-08,thomas rhett marry me,spotify:track:0OWZFobGSIW9GrSlQ9C5pc
+,181200.0,False,,Thomas Rhett,,Star Of The Show,6,,2016-10-28,thomas rhett star of the show,spotify:track:63OQWdXMq0Pe6pRpWY5gO0
+,157080.0,False,,Thomas Rhett,,Unforgettable,20,,2017-09-08,thomas rhett unforgettable,spotify:track:30MM5jWpUmOxtTNd9Ey5LZ
+,232160.0,False,,"Tim McGraw, Faith Hill",,Speak to a Girl,2,,2017-11-17,tim mcgraw speak to a girl,spotify:track:421ebjYqaIXEG2KloTbXlH
+,225360.0,False,,"Tim McGraw, Faith Hill",,The Rest of Our Life,1,,2017-11-17,tim mcgraw the rest of our life,spotify:track:19P6cJstaoQJHtHW3HOGcg
+,243253.0,False,,Train,,Play That Song,11,,2017-01-27,train play that song,spotify:track:77hjM9bMmgfTGJXv14UFmi
+,190557.0,False,,Travis Scott,,BUTTERFLY EFFECT,22,,2018-08-03,travis scott butterfly effect,spotify:track:2cYqizR4lgvp4Qu6IQ3qGN
+,243836.0,True,,Travis Scott,,goosebumps,22,,2016-09-16,travis scott goosebumps,spotify:track:6gBFPUFcJLzWGx4lenP6h2
+,217405.0,True,,"Travis Scott, Lil Uzi Vert, Kanye West",,Watch (feat. Lil Uzi Vert & Kanye West),5,,2018-05-04,travis scott watch,spotify:track:3DoBTwfr8yi2LN08SBpFkN
+,229013.0,False,,Trey Songz,,Nobody Else But You,3,,2017-03-24,trey songz nobody else but you,spotify:track:1HOUzEsetdIPSpAgRPhZQt
+,256162.0,True,,"Trippie Redd, Travis Scott",,Dark Knight Dummo (Feat. Travis Scott),7,,2017-12-05,trippie redd dark knight dummo,spotify:track:3YeJXuRSNS5FYwOsDu44kD
+,204726.0,False,,Troye Sivan,,My My My!,1,,2018-08-31,troye sivan my my my!,spotify:track:4NiehSBQthimPzRsVeOgCT
+,232959.0,True,,"Tyga, Offset",,Taste (feat. Offset),6,,2018-05-16,tyga taste,spotify:track:5IaHrVsrferBYDm0bDyABy
+,151026.0,True,,"Tyler, The Creator",,OKRA,1,,2018-03-30,"tyler, the creator okra",spotify:track:74ZovzRxHBvCq5yIwe8boh
+,205093.0,True,,"Tyler, The Creator, A$AP Rocky",,Who Dat Boy,1,,2017-07-21,"tyler, the creator who dat boy",spotify:track:21yRtB6B8EMounImAfHRCP
+,261371.0,False,,WALK THE MOON,,One Foot,8,,2017-09-22,walk the moon one foot,spotify:track:3yWsWi2PAo9s6elIhnywIS
+,197840.0,False,,Walker Hayes,,You Broke Up with Me,18,,2017-01-27,walker hayes you broke up with me,spotify:track:6UsoV6X96Rox9mfxoz7SFy
+,238626.0,False,,Weezer,,Africa,1,,2019-01-24,weezer africa,spotify:track:3ZPKocroJIcnHGcnJVlLKD
+,262960.0,False,,Wham!,,Last Christmas,2,,1984,wham! last christmas,spotify:track:2FRnf9qhLbvw8fu4IBXx78
+,232786.0,False,,"Wisin, Ozuna",,Escápate Conmigo (feat. Ozuna),20,,2017-12-01,wisin escapate conmigo,spotify:track:1KSqYYJFyfTecXFk9M0prc
+,200773.0,True,,"Wiz Khalifa, Ty Dolla $ign",,Something New (feat. Ty Dolla $ign),1,,2018-07-13,wiz khalifa something new,spotify:track:6u8hSdYZxbK5EczDPRIXXf
+,129720.0,True,,XXXTENTACION,,Carry On,1,,2017-08-25,xxxtentacion carry on,spotify:track:2yZax79pOrYuyIFVW2cZY2
+,121886.0,False,,XXXTENTACION,,changes,12,,2018-03-16,xxxtentacion changes,spotify:track:7AFASza1mXqntmGtbxXprO
+,144733.0,True,,XXXTENTACION,,Depression & Obsession,1,,2017-08-25,xxxtentacion depression & obsession,spotify:track:2H3wWrnO758y0fPH7Ilerg
+,95466.0,True,,XXXTENTACION,,Everybody Dies In Their Nightmares,7,,2017-08-25,xxxtentacion everybody dies in their nightmares,spotify:track:3GVkPk8mqxz0itaAriG1L7
+,115194.0,True,,XXXTENTACION,,going down!,1,,2018-03-16,xxxtentacion going down!,spotify:track:7CkbRn6S0itJqcqn88AtSV
+,110886.0,True,,XXXTENTACION,,Hope,2,,2018-03-16,xxxtentacion hope,spotify:track:2ZRo7axmMPeSVUvDbGkJah
+,176590.0,True,,"XXXTENTACION, Joey Bada$$",,infinity (888) - feat. Joey Bada$$,1,,2018-03-16,xxxtentacion infinity (888),spotify:track:7J2gyNghNTzl4EsLhXp01Q
+,119133.0,True,,XXXTENTACION,,Jocelyn Flores,19,,2017-08-25,xxxtentacion jocelyn flores,spotify:track:7m9OqQk4RVRkw9JJdeAw96
+,126345.0,True,,XXXTENTACION,,Look At Me!,20,,2017-02-20,xxxtentacion look at me!,spotify:track:7floNISpH8VF4z4459Qo18
+,135090.0,True,,XXXTENTACION,,Moonlight,12,,2018-03-16,xxxtentacion moonlight,spotify:track:0JP9xo3adEtGSdUEISiszL
+,186267.0,False,,XXXTENTACION,,NUMB,3,,2018-03-16,xxxtentacion numb,spotify:track:01TnVDiet1DFTsyWKUKovl
+,120026.0,True,,XXXTENTACION,,Revenge,2,,2017-08-25,xxxtentacion revenge,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW
+,166605.0,True,,XXXTENTACION,,SAD!,18,,2018-03-16,xxxtentacion sad!,spotify:track:3ee8Jmje8o58CHK66QrVC2
+,163201.0,True,,XXXTENTACION,,Save Me,1,,2017-08-25,xxxtentacion save me,spotify:track:2UwbhMie1EAYuTZ0QXeMwl
+,159915.0,True,,YBN Nahmir,,Rubbin Off The Paint,16,,2018-09-07,ybn nahmir rubbin off the paint,spotify:track:6V4KHt9xu4TPEnDFoBeacT
+,197170.0,True,,"YFN Lucci, PnB Rock",,Everyday We Lit (feat. PnB Rock),20,,2017-03-03,yfn lucci everyday we lit,spotify:track:4PzovBqgnSHKd8opsP7IVM
+,237240.0,True,,"YG, 2 Chainz, Big Sean, Nicki Minaj",,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",5,,2018-08-03,yg big bank,spotify:track:0ZNrc4kNeQYD9koZ3KvCsy
+,149241.0,True,,Yo Gotti,,Juice,5,,2017-10-27,yo gotti juice,spotify:track:1psC5iHzQxaTMZ5dWGfM6I
+,276333.0,True,,"Yo Gotti, Nicki Minaj",,Rake It Up,22,,2017-10-27,yo gotti rake it up,spotify:track:4knL4iPxPOZjQzTUlELGSY
+,254946.0,True,,"Young Thug, Nicki Minaj",,Anybody (feat. Nicki Minaj),1,,2018-04-13,young thug anybody,spotify:track:5I30ByMf5nhgbSokY1EZiN
+,215306.0,True,,"Young Thug, Future",,Relationship (feat. Future),14,,2017-06-16,young thug relationship,spotify:track:25oOaleife6E2MIKmFkPvg
+,162488.0,True,,YoungBoy Never Broke Again,,Diamond Teeth Samurai,5,,2018-06-29,youngboy never broke again diamond teeth samurai,spotify:track:1k7KigfkZh2Xb6khqV1a0K
+,160000.0,True,,YoungBoy Never Broke Again,,No Smoke,17,,2017-08-04,youngboy never broke again no smoke,spotify:track:57IRaiAB4hBZu3gnNVZC0v
+,129105.0,True,,YoungBoy Never Broke Again,,Outside Today,19,,2018-06-29,youngboy never broke again outside today,spotify:track:3sA7HKGzcKTVscdiTCrWpX
+,176990.0,True,,YoungBoy Never Broke Again,,Overdose,9,,2018-06-29,youngboy never broke again overdose,spotify:track:3A1BaBGT3HgzuDrV9pgX9v
+,236070.0,True,,YoungBoy Never Broke Again,,Preach,1,,2018-06-29,youngboy never broke again preach,spotify:track:45RbAX2KxbPdNwUgeYA69j
+,180705.0,True,,YoungBoy Never Broke Again,,Untouchable,2,,2017-05-31,youngboy never broke again untouchable,spotify:track:4MofYf0f4ijlVV6elUW5S3
+,227222.0,False,,Zac Brown Band,,My Old Man,4,,2017-05-12,zac brown band my old man,spotify:track:6OzujJBXwYPxJ7KeqflLtr
+,217440.0,False,,"Zac Efron, Zendaya",,Rewrite The Stars,7,,2017-12-08,zac efron rewrite the stars,spotify:track:65fpYBrI8o2cfrwf2US4gq
+,144244.0,False,,"Zay Hilfigerrr, Zayion McCall",,Juju On That Beat (TZ Anthem),3,,2016-09-30,zay hilfigerrr juju on that beat (tz anthem),spotify:track:1lItf5ZXJc1by9SbPeljFd
+,239000.0,False,,"ZAYN, Sia",,Dusk Till Dawn - Radio Edit,16,,2017-09-07,zayn dusk till dawn,spotify:track:1j4kHkkpqZRBwE0A4CN4Yv
+,185373.0,False,,ZAYN,,Let Me,1,,2018-12-13,zayn let me,spotify:track:0aVsVsOYDSEEigiwTrIab9
+,188490.0,False,,"ZAYN, PARTYNEXTDOOR",,Still Got Time,3,,2017-03-23,zayn still got time,spotify:track:000xQL6tZNLJzIrtIgxqSl
+,247160.0,False,,"ZAYN, Taylor Swift",,I Don’t Wanna Live Forever (Fifty Shades Darker),16,,2017-11-09,zayn / taylor swift i don't wanna live forever (fifty shades darker),spotify:track:55n9yjI6qqXh5F2mYvUc2y
+,204583.0,False,,"Zedd, Liam Payne",,Get Low (with Liam Payne),1,,2017-07-06,zedd get low,spotify:track:2syQ0f4SAQdzvlAewPl1DJ
+,210090.0,False,,"Zedd, Alessia Cara",,Stay (with Alessia Cara),31,,2017-02-23,zedd stay,spotify:track:6uBhi9gBXWjanegOb2Phh0
+,184732.0,False,,"Zedd, Maren Morris, Grey",,The Middle,23,,2018-01-23,"zedd, maren morris the middle",spotify:track:09IStsImFySgyp0pIQdqAc
+,195920.0,False,,Twenty One Pilots,,Heathens,7,,2016-06-16,twenty one pilots heathens,spotify:track:6i0V12jOa3mr6uu4WYhUBr
+"2 Chainz, Gucci Mane, Quavo",222706.0,True,39pS70eeDvyCAF3t8NAlVV,,quavo good drank,Good Drank,15,65.0,,2 chainz x gucci mane x quavo good drank,
+"21 Savage, Metro Boomin",148640.0,True,2D2w9943rsnJOGCrI4aMQp,,21 savage my choppa,My Choppa Hate Niggas,2,67.0,,21 savage my choppa hate n****s,
+Marillo,191555.0,False,6ItVmJiq8rDwBKq026zSa3,,becky g pijama,Como Becky G Sin Pijama,4,0.0,,becky g + natti natasha sin pijama,
+"Jacquees, DeJ Loaf",173053.0,False,0NqZ65jPelNB13gzsvH2Ma,,dej loaf at the club,At The Club,7,67.0,,jacquees x dej loaf at the club,
+"Kygo, Selena Gomez",216586.0,False,677RjvAT2lpYjo1Whczjzx,,kygo it aint me,It Ain't Me,29,50.0,,kygo x selena gomez it ain't me,
+Prince Royce,211453.0,False,0u4N6w5lBw5xMrzJitRWUo,,corazon,Corazon Sin Cara,9,68.0,,maluma x nego do borel corazon,
+"Martin Garrix, Troye Sivan",221904.0,False,6jA8HL9i4QGzsj6fjoxp8Y,,martin garrix there for you,There for You,1,77.0,,martin garrix x troye sivan there for you,
+"Nas, Kanye West",167907.0,True,1vi9adPJiD4d22ybGp25hy,,nas kanye cops,Cops Shot The Kid,1,57.0,,nas cop shot the kid,
+"Ozuna, Cardi B",255506.0,False,2SbzdGpOKlH3HIAGTWTbwU,,cardi b la modelo,La Modelo,13,76.0,,ozuna x cardi b la modelo,
+"Quality Control, Migos, Eurielle",295997.0,True,3hWUIMNBwLNug1O8o2PPRW,,too hotty,Too Hotty,4,65.0,,"quavo, takeoff too hotty",
+"Selena Gomez, Marshmello",197993.0,False,0tBbt8CrmxbjRP0pueQkyU,,selena gomez wolves,Wolves,22,85.0,,selena gomez x marshmello wolves,
+"XXXTENTACION, Trippie Redd",146520.0,True,7AQim7LbvFVZJE3O8TYgf2,,xxxtentacion fuck love,Fuck Love (feat. Trippie Redd),20,85.0,,xxxtentacion f**k love,
+XXXTENTACION,160184.0,True,4UKCKdYiLN6IMA5ZESUTL7,,xxxtentacion why am I so in love,the remedy for a broken heart (why am I so in love),5,82.0,,xxxtentacion the remedy for a broke heart (why am i so in love),
