@@ -9,6 +9,7 @@ Dataset:
 
 ### To Do:
 - EDA
+- I should have an impact hypothesis (there is no point in doing something if there are no actions that can be taken because of the analysis done)
 - clean and prepare data to use the Spotify API to search for songs to extract metadata
     - creating an app and registering to get the credentials needed to use API
     - read the docs to learn how to use it
@@ -17,3 +18,5 @@ Dataset:
 - clean up repo and collect learnings and insight for blog post
 - [https://docs.google.com/document/d/1lzOJkQ34iDTxcJq2Y0uoYU7W3QMMVC7yc9lahF59SPw/edit?usp=sharing]spotify_api_notes
 - i wonder if i can get the revenue generated from these songs somewhere
+
+- pairplot to look how different correlations and distributions of my varibales because duh
