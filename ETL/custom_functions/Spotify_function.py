@@ -2,7 +2,7 @@ import spotipy
 import spotipy.util as util
 import json
 
-def Spotify(json_file = 'credentials.json'):
+def Spotify_func(json_file = "credentials.json"):
     with open(json_file) as filename:
         credentials = json.load(filename)
         filename.close()

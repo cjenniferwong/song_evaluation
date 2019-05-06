@@ -1,3 +1,4 @@
 *.pkl
 *.json
-/mark*
+/mark/*
+.ipynb_checkpoints/*

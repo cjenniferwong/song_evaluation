@@ -1,3 +1,21 @@
+import json
+import pandas as pd
+
+# import spotipy
+# import spotipy.util as util
+
+
+# with open('../credentials.json') as filename:
+#     credentials = json.load(filename)
+#     filename.close()
+    
+# token = util.oauth2.SpotifyClientCredentials(client_id=credentials['client_id'],
+#                                              client_secret=credentials['client_secret'])
+# ## creates an access token for you to do what you need to do
+# cache_token = token.get_access_token()
+# sp = spotipy.Spotify(cache_token)
+
+
 def _clean_search_results(results):
     meta= results[0]
     keys = ['artists', 'duration_ms', 'explicit', 'name', 'uri', 'release_date']
@@ -11,7 +29,7 @@ def _clean_search_results(results):
         else: meta_dict[key] = meta[key]
     return meta_dict
 
-def get_features(df):
+def get_features(df, sp):
     results_list = []
     for queries in df.search_queries.values:
         test = sp.search(q=queries, type = 'track', limit=1)
@@ -24,7 +42,7 @@ def get_features(df):
         results_list.append(cleaned)
     yield list(results_list)
     
-def get_audio_features(id_value):
+def get_audio_features(id_value, sp):
     '''
     pass in the song's uri id string , and through the audiofeautes endpoint it returns the data there in a dictionary
     '''
@@ -38,7 +56,7 @@ def get_audio_features(id_value):
 
 
 
-def get_audio_analysis(song_id):
+def get_audio_analysis(song_id, sp):
     """
     takes the song id and passes it through the spotify api to get the song analysis values
     and if there is no song_id then it passes and returns an empty string
